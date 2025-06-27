@@ -1,0 +1,1153 @@
+<site version="3.0"><css/><components/><page id="p7866437" pageindex="0" name="inicio" pp="1" cp="1"><body bgimage="" bgpreview="" backgroundcolor="#000000" generator="0" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgp="1" bgoutput="" bgsoutput="" bsp="1"><Component type="3" id="image1" zorder="1" filename="image571937" left="77" top="62" width="560" height="206" originwidth="1280" originheight="853" src="WSB://images\IMG-20250407-WA0002.jpg" previewfile="WSB://images\IMG-20250407-WA0002.jpg" thumbname="thumb4226187" resamplename="img4226203" exportfilename="images/IMG-20250407-WA0002.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="2" filename="nav2464406" fontname="Tahoma" fontsize="8" fontcolor="8421504" fontstyle="5" activecolor="536870911" navspace="32" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc03in.gif" mouseoverimage="WSB://images\cc03over.gif" mouseoversound="" navtext0="inicio " navurl0="page://p7866437" navtarget0="" navstate0="0" navtext1="Origen y Definicion" navurl1="page://p8860578" navtarget1="" navstate1="0" navtext2="Evolucion" navurl2="page://p8861218" navtarget2="" navstate2="0" navtext3="Infruencia en la cultura" navurl3="page://p8861515" navtarget3="" navstate3="0" navtext4="Mas populares" navurl4="page://p8861687" navtarget4="" navstate4="0" navcount="5" width="785" height="26" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\docTO953\Nav0AJCD" left="255" top="390" fp="1" exportfilename="images/nav2464406" exportsound="" lp="1"/><Component type="3" id="image5" zorder="3" filename="image2686640" left="22" top="697" width="219" height="155" originwidth="259" originheight="194" src="WSB://images\donkey kong.jpg" previewfile="WSB://images\donkey kong.jpg" thumbname="thumb4226234" resamplename="img4226250" exportfilename="images/donkey kong.jpg" fp="1" lp="1"/><Component type="3" id="image6" zorder="4" filename="image2727296" left="246" top="693" width="225" height="177" originwidth="225" originheight="225" src="WSB://images\fondo pacman.png" previewfile="WSB://images\fondo pacman.png" thumbname="thumb4226281" resamplename="img4226296" exportfilename="images/fondo pacman.png" fp="1" lp="1"/><Component type="3" id="image7" zorder="5" filename="image2755359" left="25" top="539" width="197" height="134" originwidth="284" originheight="177" src="WSB://images\terraria.jpg" previewfile="WSB://images\terraria.jpg" thumbname="thumb4226328" resamplename="img4226343" exportfilename="images/terraria.jpg" fp="1" lp="1"/><Component type="3" id="image9" zorder="6" filename="image2863250" left="577" top="526" width="168" height="143" originwidth="236" originheight="214" src="WSB://images\gif mario.jpg" previewfile="WSB://images\gif mario.jpg" thumbname="thumb4226375" resamplename="img4226390" exportfilename="images/gif mario.jpg" fp="1" lp="1"/><Component type="3" id="image10" zorder="7" filename="image2923062" left="12" top="362" width="207" height="154" originwidth="203" originheight="248" src="WSB://images\gta.jpg" previewfile="WSB://images\gta.jpg" thumbname="thumb4226421" resamplename="img4226437" exportfilename="images/gta.jpg" fp="1" lp="1"/><Component type="3" id="image11" zorder="8" filename="image2958500" left="919" top="21" width="318" height="159" originwidth="318" originheight="159" src="WSB://images\maincra.jpg" previewfile="WSB://images\maincra.jpg" thumbname="thumb4226468" resamplename="img4226484" exportfilename="images/maincra.jpg" fp="1" lp="1"/><Component type="3" id="image12" zorder="9" filename="image2985812" left="932" top="200" width="300" height="143" originwidth="300" originheight="168" src="WSB://images\skyrim.jpg" previewfile="WSB://images\skyrim.jpg" thumbname="thumb4226515" resamplename="img4226531" exportfilename="images/skyrim.jpg" fp="1" lp="1"/><Component type="3" id="image13" zorder="10" filename="image3015687" left="705" top="32" width="184" height="273" originwidth="184" originheight="273" src="WSB://images\witcher.jpg" previewfile="WSB://images\witcher.jpg" thumbname="thumb4226562" resamplename="img4226578" exportfilename="images/witcher.jpg" fp="1" lp="1"/><Component type="3" id="image16" zorder="11" filename="image3098546" left="241" top="501" width="300" height="168" originwidth="300" originheight="168" src="WSB://images\red dead 2.jpg" previewfile="WSB://images\red dead 2.jpg" thumbname="thumb4226609" resamplename="img4226625" exportfilename="images/red dead 2.jpg" fp="1" lp="1"/><Component type="3" id="image14" zorder="12" filename="image3148406" left="1034" top="376" width="194" height="285" originwidth="148" originheight="148" src="WSB://images\makina pacman.png" previewfile="WSB://images\makina pacman.png" thumbname="thumb4226656" resamplename="img4226671" exportfilename="images/makina pacman.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="0" filename="image1237015" left="0" top="0" width="1282" height="948" originwidth="168" originheight="299" src="WSB://images\morado.jpg" previewfile="WSB://images\morado.jpg" thumbname="thumb4226140" resamplename="img4226156" exportfilename="images/morado.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="13" filename="image1495828" left="499" top="691" width="300" height="168" originwidth="300" originheight="168" src="WSB://images\tetris.jpg" previewfile="WSB://images\tetris.jpg" thumbname="thumb4226703" resamplename="img4226718" exportfilename="images/tetris.jpg" fp="1" lp="1"/></body></page><page id="p8860578" pageindex="1" name="Origen y Definicion" pp="1" cp="1"><body backgroundcolor="#CCFFFF" bgimage="" bgpreview="" bgp="1" bgoutput="" bgsoutput="" bsp="1"><Component type="2" id="text1" zorder="1" filename="text3416812" width="1201" height="1439" html="" left="39" top="0" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="12180868" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font face="Roman" style="font-size:16px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:27px;background-color:#FFFFFF;"&gt;&lt;B&gt;ORIGEN Y DEFINICION &lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Los videojuegos son programas informaticos que se ejecutan en una pantalla y que permiten a los usuarios experimentar situaciones simuladas .&amp;nbsp; Los videojuegos se originaron en la decada de 1950,con le aparicion de las primeras computadoras electronicas.Los primeros videojuegos eran prototipos experimentales y no se comercializaban.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Un videojuego o juego de video es un software o juego electrónico en el que uno o más jugadores interactúan por medio de un controlador, con un dispositivo electrónico que muestra imágenes de video.1 Este dispositivo, conocido genéricamente como "plataforma", puede ser una computadora, una máquina de arcade, una consola de videojuegos o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente, tableta o una consola de videojuegos portátil. La industria de los videojuegos es un sector en constante crecimiento y se ha convertido en una forma de entretenimiento muy popular a nivel mundial.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Los jugadores interactúan con los videojuegos a través de dispositivos de entrada a los que se conoce como controladores o mandos. Mediante estos dispositivos, los jugadores controlan los movimientos y acciones de los personajes del juego y varía dependiendo de la plataforma. Por ejemplo, un controlador podría únicamente consistir de un botón y una palanca de mando o joystick, mientras otro podría presentar una docena de botones y una o más palancas, lo que llamamos mando. Los primeros juegos informáticos solían hacer uso de un teclado para llevar a cabo la interacción, o bien requerían que el usuario adquiriera un mando con un botón como mínimo.2 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Muchos juegos de computadora modernos permiten o exigen que el usuario utilice un teclado y un ratón de forma simultánea.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Generalmente los videojuegos hacen uso de otros medios, además de la imagen, de proveer los reflejos e interacción al jugador. El audio es casi universal, usándose dispositivos de reproducción de sonido, tales como altavoces y auriculares. Otro tipo de realimentación se hace a través de periféricos hápticos que producen vibración o retroalimentación de fuerza.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Copia de Tennis for Two (1958), uno de los primeros videojuegos de la historia, para computadora analógica; el juego se mostraba en un osciloscopio. Máquina recreativa del videojuego Pong (1972).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Los orígenes del videojuego se remontan a la década de 1950, cuando poco después de la aparición de las primeras computadoras electrónicas tras el fin de la Segunda Guerra Mundial, se llevaron a cabo los primeros intentos por implementar programas de carácter lúdico. Así, fueron creados el Nimrod (1951) o el Oxo (1952), juegos electrónicos que aún no pueden ser denominados videojuegos, y el Tennis for Two (1958) o el Spacewar! (1962), auténticos pioneros del género. Todos ellos eran todavía prototipos, juegos muy simples y de carácter experimental que no llegaron a comercializarse, entre otras cosas, porque funcionaban en unas máquinas que solo estaban disponibles en universidades o en institutos de investigación.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt; La consola Magnavox Odyssey (1972).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;No sería hasta la década de los 70 en que, con la bajada de los costes de fabricación, aparecieron las primeras máquinas recreativas y los primeros videojuegos dirigidos al gran público. Títulos como Computer Space (1971) o Pong (1972), de Atari, inauguraron las primeras máquinas recreativas construidas al efecto, que funcionaban con monedas. Poco después llegarían los videojuegos a los hogares gracias a las consolas domésticas, la primera de las cuales fue la Magnavox Odyssey (1972), y más tarde la exitosa Atari 2600 o VCS (de 1977), con su sistema de cartuchos intercambiables. Por aquel entonces las máquinas de arcade empezaron a hacerse comunes en bares y salones recreativos, una expansión debida en parte a un matamarcianos que alcanzó gran popularidad, el Space Invaders (1978). Otros juegos que marcaron esta primera época fueron Galaxian (1979), Asteroids (1979) o Pac-Man (1980).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt; La consola portátil Game Boy (1989)&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;En los años 1980, la empresa norteamericana Atari tuvo que compartir su dominio en &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;la industria del videojuego con dos compañías llegadas de Japón: Nintendo (con su famosa consola NES) y SEGA (con la Master System). Paralelamente, surgió una generación de ordenadores personales asequibles y con capacidades gráficas que llegaron a los hogares de millones de familias, como fueron el Spectrum, el Amstrad CPC, el Commodore 64 o el MSX. A partir de entonces, los videojuegos empezaron a convertirse en una poderosa industria. Fue además una época muy creativa para los desarrolladores de videojuegos; muchos de la principales géneros que existen hoy en día (conducción, lucha, plataformas, estrategia, aventura...) tomaron forma en esta década. Por otra parte, aparecieron también las primeras consolas de bolsillo, también conocidas como "maquinitas", que aunque hasta la llegada de la Game Boy de Nintendo (1989) solo ejecutaban un juego cada una, alcanzaron gran popularidad entre los más jóvenes.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Los años 1990 traen el salto a la tecnología de 16-bit (como la SNES y la Mega Drive), lo que traía consigo importantes mejoras gráficas. Entra en escena el gigante Sony con su primera PlayStation (1994), mientras Nintendo y Sega actualizan sus máquinas (Nintendo 64 y Sega Saturn). En cuanto a las computadoras personales, el progreso de los PC termina por barrer del mapa a los demás sistemas salvo el de Apple. Aparecen entonces juegos cada vez más avanzados tecnológicamente como los juegos de disparos en primera persona o FPS, que recrean espacios en 3D. En el año 2002 entra Microsoft en el sector de las videoconsolas con su Xbox, mientras Nintendo lanza en 2001 la Gamecube y en el 2006 su innovadora Wii. Entretanto, Sony actualiza su exitosa PlayStation (versiones II y III), y en los PC, gracias a la expansión del Internet, cobran protagonismo los juegos en línea y multijugador.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;Por último, en la década de 2010 emergen como plataformas de juegos los dispositivos táctiles portátiles, como los teléfonos inteligentes y las tabletas, llegando a un público muy amplio. Por otro lado, varias empresas tecnológicas empiezan a desarrollar cascos de realidad virtual, que prometen traer nuevas experiencias al mundo abierto del entretenimiento electrónico.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" style="font-size:16px;background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font face="Roman" class="ws12"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws20" style="background-color:#FFFFFF;"&gt;&lt;B&gt;ORIGEN Y DEFINICION &lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Los videojuegos son programas informaticos que se ejecutan en una pantalla y que permiten a los usuarios experimentar situaciones simuladas .&amp;nbsp; Los videojuegos se originaron en la decada de 1950,con le aparicion de las primeras computadoras electronicas.Los primeros videojuegos eran prototipos experimentales y no se comercializaban.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Un videojuego o juego de video es un software o juego electrónico en el que uno o más jugadores interactúan por medio de un controlador, con un dispositivo electrónico que muestra imágenes de video.1 Este dispositivo, conocido genéricamente como "plataforma", puede ser una computadora, una máquina de arcade, una consola de videojuegos o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente, tableta o una consola de videojuegos portátil. La industria de los videojuegos es un sector en constante crecimiento y se ha convertido en una forma de entretenimiento muy popular a nivel mundial.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Los jugadores interactúan con los videojuegos a través de dispositivos de entrada a los que se conoce como controladores o mandos. Mediante estos dispositivos, los jugadores controlan los movimientos y acciones de los personajes del juego y varía dependiendo de la plataforma. Por ejemplo, un controlador podría únicamente consistir de un botón y una palanca de mando o joystick, mientras otro podría presentar una docena de botones y una o más palancas, lo que llamamos mando. Los primeros juegos informáticos solían hacer uso de un teclado para llevar a cabo la interacción, o bien requerían que el usuario adquiriera un mando con un botón como mínimo.2 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Muchos juegos de computadora modernos permiten o exigen que el usuario utilice un teclado y un ratón de forma simultánea.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Generalmente los videojuegos hacen uso de otros medios, además de la imagen, de proveer los reflejos e interacción al jugador. El audio es casi universal, usándose dispositivos de reproducción de sonido, tales como altavoces y auriculares. Otro tipo de realimentación se hace a través de periféricos hápticos que producen vibración o retroalimentación de fuerza.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Copia de Tennis for Two (1958), uno de los primeros videojuegos de la historia, para computadora analógica; el juego se mostraba en un osciloscopio. Máquina recreativa del videojuego Pong (1972).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Los orígenes del videojuego se remontan a la década de 1950, cuando poco después de la aparición de las primeras computadoras electrónicas tras el fin de la Segunda Guerra Mundial, se llevaron a cabo los primeros intentos por implementar programas de carácter lúdico. Así, fueron creados el Nimrod (1951) o el Oxo (1952), juegos electrónicos que aún no pueden ser denominados videojuegos, y el Tennis for Two (1958) o el Spacewar! (1962), auténticos pioneros del género. Todos ellos eran todavía prototipos, juegos muy simples y de carácter experimental que no llegaron a comercializarse, entre otras cosas, porque funcionaban en unas máquinas que solo estaban disponibles en universidades o en institutos de investigación.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt; La consola Magnavox Odyssey (1972).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;No sería hasta la década de los 70 en que, con la bajada de los costes de fabricación, aparecieron las primeras máquinas recreativas y los primeros videojuegos dirigidos al gran público. Títulos como Computer Space (1971) o Pong (1972), de Atari, inauguraron las primeras máquinas recreativas construidas al efecto, que funcionaban con monedas. Poco después llegarían los videojuegos a los hogares gracias a las consolas domésticas, la primera de las cuales fue la Magnavox Odyssey (1972), y más tarde la exitosa Atari 2600 o VCS (de 1977), con su sistema de cartuchos intercambiables. Por aquel entonces las máquinas de arcade empezaron a hacerse comunes en bares y salones recreativos, una expansión debida en parte a un matamarcianos que alcanzó gran popularidad, el Space Invaders (1978). Otros juegos que marcaron esta primera época fueron Galaxian (1979), Asteroids (1979) o Pac-Man (1980).&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt; La consola portátil Game Boy (1989)&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;En los años 1980, la empresa norteamericana Atari tuvo que compartir su dominio en &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;la industria del videojuego con dos compañías llegadas de Japón: Nintendo (con su famosa consola NES) y SEGA (con la Master System). Paralelamente, surgió una generación de ordenadores personales asequibles y con capacidades gráficas que llegaron a los hogares de millones de familias, como fueron el Spectrum, el Amstrad CPC, el Commodore 64 o el MSX. A partir de entonces, los videojuegos empezaron a convertirse en una poderosa industria. Fue además una época muy creativa para los desarrolladores de videojuegos; muchos de la principales géneros que existen hoy en día (conducción, lucha, plataformas, estrategia, aventura...) tomaron forma en esta década. Por otra parte, aparecieron también las primeras consolas de bolsillo, también conocidas como "maquinitas", que aunque hasta la llegada de la Game Boy de Nintendo (1989) solo ejecutaban un juego cada una, alcanzaron gran popularidad entre los más jóvenes.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Los años 1990 traen el salto a la tecnología de 16-bit (como la SNES y la Mega Drive), lo que traía consigo importantes mejoras gráficas. Entra en escena el gigante Sony con su primera PlayStation (1994), mientras Nintendo y Sega actualizan sus máquinas (Nintendo 64 y Sega Saturn). En cuanto a las computadoras personales, el progreso de los PC termina por barrer del mapa a los demás sistemas salvo el de Apple. Aparecen entonces juegos cada vez más avanzados tecnológicamente como los juegos de disparos en primera persona o FPS, que recrean espacios en 3D. En el año 2002 entra Microsoft en el sector de las videoconsolas con su Xbox, mientras Nintendo lanza en 2001 la Gamecube y en el 2006 su innovadora Wii. Entretanto, Sony actualiza su exitosa PlayStation (versiones II y III), y en los PC, gracias a la expansión del Internet, cobran protagonismo los juegos en línea y multijugador.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;Por último, en la década de 2010 emergen como plataformas de juegos los dispositivos táctiles portátiles, como los teléfonos inteligentes y las tabletas, llegando a un público muy amplio. Por otro lado, varias empresas tecnológicas empiezan a desarrollar cascos de realidad virtual, que prometen traer nuevas experiencias al mundo abierto del entretenimiento electrónico.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Roman" class="ws12" style="background-color:#FFFFFF;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp/AgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVSb21hbgRTaXplAgwFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFUm9tYW4EU2l6ZQIMBUNvbG9yBwdjbEJs
+YWNrCUJhY2tDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBgVSb21hbgRTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsQmxhY2sJQmFj
+a0NvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBVJvbWFuBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xCbGFjawlCYWNrQ29sb3IH
+B2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFUm9t
+YW4EU2l6ZQIMBVN0eWxlCwZmc0JvbGQACUJhY2tDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KTgEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFt
+ZQYIQ2VudGVyZWQIU3RhbmRhcmQICUFsaWdubWVudAcKcnZhSnVzdGlmeQdPcHRpb25zCwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgNCAwIDAgMA0KDQo3IDEgMSAwIDAg
+MA0KDQo2IDEgMSAwIDAgMA0KT1JJR0VOIFkgREVGSU5JQ0lPTiANCjUgMSAtMSAxIDAgMA0KIA0K
+NCA1OSAxIDAgMCAwDQogIA0KDQoNCkxvcyB2aWRlb2p1ZWdvcyBzb24gcHJvZ3JhbWFzIGluZm9y
+bWF0aWNvcyBxdWUgc2UgZWplY3V0YW4gZW4gdW5hIHBhbnRhbGxhIHkgcXVlIHBlcm1pdGVuIGEg
+bG9zIHVzdWFyaW9zIGV4cGVyaW1lbnRhciBzaXR1YWNpb25lcyBzaW11bGFkYXMgLiAgTG9zIHZp
+ZGVvanVlZ29zIHNlIG9yaWdpbmFyb24gZW4gbGEgZGVjYWRhIGRlIDE5NTAsY29uIGxlIGFwYXJp
+Y2lvbiBkZSBsYXMgcHJpbWVyYXMgY29tcHV0YWRvcmFzIGVsZWN0cm9uaWNhcy5Mb3MgcHJpbWVy
+b3MgdmlkZW9qdWVnb3MgZXJhbiBwcm90b3RpcG9zIGV4cGVyaW1lbnRhbGVzIHkgbm8gc2UgY29t
+ZXJjaWFsaXphYmFuLg0KDQoNCg0KDQoNCg0KDQoNCg0KVW4gdmlkZW9qdWVnbyBvIGp1ZWdvIGRl
+IHZpZGVvIGVzIHVuIHNvZnR3YXJlIG8ganVlZ28gZWxlY3Ry825pY28gZW4gZWwgcXVlIHVubyBv
+IG3hcyBqdWdhZG9yZXMgaW50ZXJhY3T6YW4gcG9yIG1lZGlvIGRlIHVuIGNvbnRyb2xhZG9yLCBj
+b24gdW4gZGlzcG9zaXRpdm8gZWxlY3Ry825pY28gcXVlIG11ZXN0cmEgaW3hZ2VuZXMgZGUgdmlk
+ZW8uMSBFc3RlIGRpc3Bvc2l0aXZvLCBjb25vY2lkbyBnZW7pcmljYW1lbnRlIGNvbW8gInBsYXRh
+Zm9ybWEiLCBwdWVkZSBzZXIgdW5hIGNvbXB1dGFkb3JhLCB1bmEgbeFxdWluYSBkZSBhcmNhZGUs
+IHVuYSBjb25zb2xhIGRlIHZpZGVvanVlZ29zIG8gdW4gZGlzcG9zaXRpdm8gcG9ydOF0aWwsIGNv
+bW8gcG9yIGVqZW1wbG8gdW4gdGVs6WZvbm8gbfN2aWwsIHRlbOlmb25vIGludGVsaWdlbnRlLCB0
+YWJsZXRhIG8gdW5hIGNvbnNvbGEgZGUgdmlkZW9qdWVnb3MgcG9ydOF0aWwuIExhIGluZHVzdHJp
+YSBkZSBsb3MgdmlkZW9qdWVnb3MgZXMgdW4gc2VjdG9yIGVuIGNvbnN0YW50ZSBjcmVjaW1pZW50
+byB5IHNlIGhhIGNvbnZlcnRpZG8gZW4gdW5hIGZvcm1hIGRlIGVudHJldGVuaW1pZW50byBtdXkg
+cG9wdWxhciBhIG5pdmVsIG11bmRpYWwuDQoNCkxvcyBqdWdhZG9yZXMgaW50ZXJhY3T6YW4gY29u
+IGxvcyB2aWRlb2p1ZWdvcyBhIHRyYXbpcyBkZSBkaXNwb3NpdGl2b3MgZGUgZW50cmFkYSBhIGxv
+cyBxdWUgc2UgY29ub2NlIGNvbW8gY29udHJvbGFkb3JlcyBvIG1hbmRvcy4gTWVkaWFudGUgZXN0
+b3MgZGlzcG9zaXRpdm9zLCBsb3MganVnYWRvcmVzIGNvbnRyb2xhbiBsb3MgbW92aW1pZW50b3Mg
+eSBhY2Npb25lcyBkZSBsb3MgcGVyc29uYWplcyBkZWwganVlZ28geSB2YXLtYSBkZXBlbmRpZW5k
+byBkZSBsYSBwbGF0YWZvcm1hLiBQb3IgZWplbXBsbywgdW4gY29udHJvbGFkb3IgcG9kcu1hIPpu
+aWNhbWVudGUgY29uc2lzdGlyIGRlIHVuIGJvdPNuIHkgdW5hIHBhbGFuY2EgZGUgbWFuZG8gbyBq
+b3lzdGljaywgbWllbnRyYXMgb3RybyBwb2Ry7WEgcHJlc2VudGFyIHVuYSBkb2NlbmEgZGUgYm90
+b25lcyB5IHVuYSBvIG3hcyBwYWxhbmNhcywgbG8gcXVlIGxsYW1hbW9zIG1hbmRvLiBMb3MgcHJp
+bWVyb3MganVlZ29zIGluZm9ybeF0aWNvcyBzb2ztYW4gaGFjZXIgdXNvIGRlIHVuIHRlY2xhZG8g
+cGFyYSBsbGV2YXIgYSBjYWJvIGxhIGludGVyYWNjafNuLCBvIGJpZW4gcmVxdWVy7WFuIHF1ZSBl
+bCB1c3VhcmlvIGFkcXVpcmllcmEgdW4gbWFuZG8gY29uIHVuIGJvdPNuIGNvbW8gbe1uaW1vLjIg
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQpNdWNob3MganVlZ29zIGRlIGNvbXB1dGFkb3JhIG1v
+ZGVybm9zIHBlcm1pdGVuIG8gZXhpZ2VuIHF1ZSBlbCB1c3VhcmlvIHV0aWxpY2UgdW4gdGVjbGFk
+byB5IHVuIHJhdPNuIGRlIGZvcm1hIHNpbXVsdOFuZWEuDQpHZW5lcmFsbWVudGUgbG9zIHZpZGVv
+anVlZ29zIGhhY2VuIHVzbyBkZSBvdHJvcyBtZWRpb3MsIGFkZW3hcyBkZSBsYSBpbWFnZW4sIGRl
+IHByb3ZlZXIgbG9zIHJlZmxlam9zIGUgaW50ZXJhY2Np824gYWwganVnYWRvci4gRWwgYXVkaW8g
+ZXMgY2FzaSB1bml2ZXJzYWwsIHVz4W5kb3NlIGRpc3Bvc2l0aXZvcyBkZSByZXByb2R1Y2Np824g
+ZGUgc29uaWRvLCB0YWxlcyBjb21vIGFsdGF2b2NlcyB5IGF1cmljdWxhcmVzLiBPdHJvIHRpcG8g
+ZGUgcmVhbGltZW50YWNp824gc2UgaGFjZSBhIHRyYXbpcyBkZSBwZXJpZulyaWNvcyBo4XB0aWNv
+cyBxdWUgcHJvZHVjZW4gdmlicmFjafNuIG8gcmV0cm9hbGltZW50YWNp824gZGUgZnVlcnphLg0K
+DQoNCkNvcGlhIGRlIFRlbm5pcyBmb3IgVHdvICgxOTU4KSwgdW5vIGRlIGxvcyBwcmltZXJvcyB2
+aWRlb2p1ZWdvcyBkZSBsYSBoaXN0b3JpYSwgcGFyYSBjb21wdXRhZG9yYSBhbmFs82dpY2E7IGVs
+IGp1ZWdvIHNlIG1vc3RyYWJhIGVuIHVuIG9zY2lsb3Njb3Bpby4gTeFxdWluYSByZWNyZWF0aXZh
+IGRlbCB2aWRlb2p1ZWdvIFBvbmcgKDE5NzIpLg0KTG9zIG9y7WdlbmVzIGRlbCB2aWRlb2p1ZWdv
+IHNlIHJlbW9udGFuIGEgbGEgZOljYWRhIGRlIDE5NTAsIGN1YW5kbyBwb2NvIGRlc3B16XMgZGUg
+bGEgYXBhcmljafNuIGRlIGxhcyBwcmltZXJhcyBjb21wdXRhZG9yYXMgZWxlY3Ry825pY2FzIHRy
+YXMgZWwgZmluIGRlIGxhIFNlZ3VuZGEgR3VlcnJhIE11bmRpYWwsIHNlIGxsZXZhcm9uIGEgY2Fi
+byBsb3MgcHJpbWVyb3MgaW50ZW50b3MgcG9yIGltcGxlbWVudGFyIHByb2dyYW1hcyBkZSBjYXLh
+Y3RlciBs+mRpY28uIEFz7SwgZnVlcm9uIGNyZWFkb3MgZWwgTmltcm9kICgxOTUxKSBvIGVsIE94
+byAoMTk1MiksIGp1ZWdvcyBlbGVjdHLzbmljb3MgcXVlIGH6biBubyBwdWVkZW4gc2VyIGRlbm9t
+aW5hZG9zIHZpZGVvanVlZ29zLCB5IGVsIFRlbm5pcyBmb3IgVHdvICgxOTU4KSBvIGVsIFNwYWNl
+d2FyISAoMTk2MiksIGF1dOludGljb3MgcGlvbmVyb3MgZGVsIGfpbmVyby4gVG9kb3MgZWxsb3Mg
+ZXJhbiB0b2Rhdu1hIHByb3RvdGlwb3MsIGp1ZWdvcyBtdXkgc2ltcGxlcyB5IGRlIGNhcuFjdGVy
+IGV4cGVyaW1lbnRhbCBxdWUgbm8gbGxlZ2Fyb24gYSBjb21lcmNpYWxpemFyc2UsIGVudHJlIG90
+cmFzIGNvc2FzLCBwb3JxdWUgZnVuY2lvbmFiYW4gZW4gdW5hcyBt4XF1aW5hcyBxdWUgc29sbyBl
+c3RhYmFuIGRpc3BvbmlibGVzIGVuIHVuaXZlcnNpZGFkZXMgbyBlbiBpbnN0aXR1dG9zIGRlIGlu
+dmVzdGlnYWNp824uDQoNCiBMYSBjb25zb2xhIE1hZ25hdm94IE9keXNzZXkgKDE5NzIpLg0KTm8g
+c2Vy7WEgaGFzdGEgbGEgZOljYWRhIGRlIGxvcyA3MCBlbiBxdWUsIGNvbiBsYSBiYWphZGEgZGUg
+bG9zIGNvc3RlcyBkZSBmYWJyaWNhY2nzbiwgYXBhcmVjaWVyb24gbGFzIHByaW1lcmFzIG3hcXVp
+bmFzIHJlY3JlYXRpdmFzIHkgbG9zIHByaW1lcm9zIHZpZGVvanVlZ29zIGRpcmlnaWRvcyBhbCBn
+cmFuIHD6YmxpY28uIFTtdHVsb3MgY29tbyBDb21wdXRlciBTcGFjZSAoMTk3MSkgbyBQb25nICgx
+OTcyKSwgZGUgQXRhcmksIGluYXVndXJhcm9uIGxhcyBwcmltZXJhcyBt4XF1aW5hcyByZWNyZWF0
+aXZhcyBjb25zdHJ1aWRhcyBhbCBlZmVjdG8sIHF1ZSBmdW5jaW9uYWJhbiBjb24gbW9uZWRhcy4g
+UG9jbyBkZXNwdelzIGxsZWdhcu1hbiBsb3MgdmlkZW9qdWVnb3MgYSBsb3MgaG9nYXJlcyBncmFj
+aWFzIGEgbGFzIGNvbnNvbGFzIGRvbelzdGljYXMsIGxhIHByaW1lcmEgZGUgbGFzIGN1YWxlcyBm
+dWUgbGEgTWFnbmF2b3ggT2R5c3NleSAoMTk3MiksIHkgbeFzIHRhcmRlIGxhIGV4aXRvc2EgQXRh
+cmkgMjYwMCBvIFZDUyAoZGUgMTk3NyksIGNvbiBzdSBzaXN0ZW1hIGRlIGNhcnR1Y2hvcyBpbnRl
+cmNhbWJpYWJsZXMuIFBvciBhcXVlbCBlbnRvbmNlcyBsYXMgbeFxdWluYXMgZGUgYXJjYWRlIGVt
+cGV6YXJvbiBhIGhhY2Vyc2UgY29tdW5lcyBlbiBiYXJlcyB5IHNhbG9uZXMgcmVjcmVhdGl2b3Ms
+IHVuYSBleHBhbnNp824gZGViaWRhIGVuIHBhcnRlIGEgdW4gbWF0YW1hcmNpYW5vcyBxdWUgYWxj
+YW568yBncmFuIHBvcHVsYXJpZGFkLCBlbCBTcGFjZSBJbnZhZGVycyAoMTk3OCkuIE90cm9zIGp1
+ZWdvcyBxdWUgbWFyY2Fyb24gZXN0YSBwcmltZXJhIOlwb2NhIGZ1ZXJvbiBHYWxheGlhbiAoMTk3
+OSksIEFzdGVyb2lkcyAoMTk3OSkgbyBQYWMtTWFuICgxOTgwKS4NCiBMYSBjb25zb2xhIHBvcnTh
+dGlsIEdhbWUgQm95ICgxOTg5KQ0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCkVuIGxvcyBh
+8W9zIDE5ODAsIGxhIGVtcHJlc2Egbm9ydGVhbWVyaWNhbmEgQXRhcmkgdHV2byBxdWUgY29tcGFy
+dGlyIHN1IGRvbWluaW8gZW4gDQpsYSBpbmR1c3RyaWEgZGVsIHZpZGVvanVlZ28gY29uIGRvcyBj
+b21wYfHtYXMgbGxlZ2FkYXMgZGUgSmFw8246IE5pbnRlbmRvIChjb24gc3UgZmFtb3NhIGNvbnNv
+bGEgTkVTKSB5IFNFR0EgKGNvbiBsYSBNYXN0ZXIgU3lzdGVtKS4gUGFyYWxlbGFtZW50ZSwgc3Vy
+Z2nzIHVuYSBnZW5lcmFjafNuIGRlIG9yZGVuYWRvcmVzIHBlcnNvbmFsZXMgYXNlcXVpYmxlcyB5
+IGNvbiBjYXBhY2lkYWRlcyBncuFmaWNhcyBxdWUgbGxlZ2Fyb24gYSBsb3MgaG9nYXJlcyBkZSBt
+aWxsb25lcyBkZSBmYW1pbGlhcywgY29tbyBmdWVyb24gZWwgU3BlY3RydW0sIGVsIEFtc3RyYWQg
+Q1BDLCBlbCBDb21tb2RvcmUgNjQgbyBlbCBNU1guIEEgcGFydGlyIGRlIGVudG9uY2VzLCBsb3Mg
+dmlkZW9qdWVnb3MgZW1wZXphcm9uIGEgY29udmVydGlyc2UgZW4gdW5hIHBvZGVyb3NhIGluZHVz
+dHJpYS4gRnVlIGFkZW3hcyB1bmEg6XBvY2EgbXV5IGNyZWF0aXZhIHBhcmEgbG9zIGRlc2Fycm9s
+bGFkb3JlcyBkZSB2aWRlb2p1ZWdvczsgbXVjaG9zIGRlIGxhIHByaW5jaXBhbGVzIGfpbmVyb3Mg
+cXVlIGV4aXN0ZW4gaG95IGVuIGTtYSAoY29uZHVjY2nzbiwgbHVjaGEsIHBsYXRhZm9ybWFzLCBl
+c3RyYXRlZ2lhLCBhdmVudHVyYS4uLikgdG9tYXJvbiBmb3JtYSBlbiBlc3RhIGTpY2FkYS4gUG9y
+IG90cmEgcGFydGUsIGFwYXJlY2llcm9uIHRhbWJp6W4gbGFzIHByaW1lcmFzIGNvbnNvbGFzIGRl
+IGJvbHNpbGxvLCB0YW1iaeluIGNvbm9jaWRhcyBjb21vICJtYXF1aW5pdGFzIiwgcXVlIGF1bnF1
+ZSBoYXN0YSBsYSBsbGVnYWRhIGRlIGxhIEdhbWUgQm95IGRlIE5pbnRlbmRvICgxOTg5KSBzb2xv
+IGVqZWN1dGFiYW4gdW4ganVlZ28gY2FkYSB1bmEsIGFsY2FuemFyb24gZ3JhbiBwb3B1bGFyaWRh
+ZCBlbnRyZSBsb3MgbeFzIGrzdmVuZXMuDQoNCkxvcyBh8W9zIDE5OTAgdHJhZW4gZWwgc2FsdG8g
+YSBsYSB0ZWNub2xvZ+1hIGRlIDE2LWJpdCAoY29tbyBsYSBTTkVTIHkgbGEgTWVnYSBEcml2ZSks
+IGxvIHF1ZSB0cmHtYSBjb25zaWdvIGltcG9ydGFudGVzIG1lam9yYXMgZ3LhZmljYXMuIEVudHJh
+IGVuIGVzY2VuYSBlbCBnaWdhbnRlIFNvbnkgY29uIHN1IHByaW1lcmEgUGxheVN0YXRpb24gKDE5
+OTQpLCBtaWVudHJhcyBOaW50ZW5kbyB5IFNlZ2EgYWN0dWFsaXphbiBzdXMgbeFxdWluYXMgKE5p
+bnRlbmRvIDY0IHkgU2VnYSBTYXR1cm4pLiBFbiBjdWFudG8gYSBsYXMgY29tcHV0YWRvcmFzIHBl
+cnNvbmFsZXMsIGVsIHByb2dyZXNvIGRlIGxvcyBQQyB0ZXJtaW5hIHBvciBiYXJyZXIgZGVsIG1h
+cGEgYSBsb3MgZGVt4XMgc2lzdGVtYXMgc2Fsdm8gZWwgZGUgQXBwbGUuIEFwYXJlY2VuIGVudG9u
+Y2VzIGp1ZWdvcyBjYWRhIHZleiBt4XMgYXZhbnphZG9zIHRlY25vbPNnaWNhbWVudGUgY29tbyBs
+b3MganVlZ29zIGRlIGRpc3Bhcm9zIGVuIHByaW1lcmEgcGVyc29uYSBvIEZQUywgcXVlIHJlY3Jl
+YW4gZXNwYWNpb3MgZW4gM0QuIEVuIGVsIGHxbyAyMDAyIGVudHJhIE1pY3Jvc29mdCBlbiBlbCBz
+ZWN0b3IgZGUgbGFzIHZpZGVvY29uc29sYXMgY29uIHN1IFhib3gsIG1pZW50cmFzIE5pbnRlbmRv
+IGxhbnphIGVuIDIwMDEgbGEgR2FtZWN1YmUgeSBlbiBlbCAyMDA2IHN1IGlubm92YWRvcmEgV2lp
+LiBFbnRyZXRhbnRvLCBTb255IGFjdHVhbGl6YSBzdSBleGl0b3NhIFBsYXlTdGF0aW9uICh2ZXJz
+aW9uZXMgSUkgeSBJSUkpLCB5IGVuIGxvcyBQQywgZ3JhY2lhcyBhIGxhIGV4cGFuc2nzbiBkZWwg
+SW50ZXJuZXQsIGNvYnJhbiBwcm90YWdvbmlzbW8gbG9zIGp1ZWdvcyBlbiBs7W5lYSB5IG11bHRp
+anVnYWRvci4NCg0KUG9yIPpsdGltbywgZW4gbGEgZOljYWRhIGRlIDIwMTAgZW1lcmdlbiBjb21v
+IHBsYXRhZm9ybWFzIGRlIGp1ZWdvcyBsb3MgZGlzcG9zaXRpdm9zIHThY3RpbGVzIHBvcnThdGls
+ZXMsIGNvbW8gbG9zIHRlbOlmb25vcyBpbnRlbGlnZW50ZXMgeSBsYXMgdGFibGV0YXMsIGxsZWdh
+bmRvIGEgdW4gcPpibGljbyBtdXkgYW1wbGlvLiBQb3Igb3RybyBsYWRvLCB2YXJpYXMgZW1wcmVz
+YXMgdGVjbm9s82dpY2FzIGVtcGllemFuIGEgZGVzYXJyb2xsYXIgY2FzY29zIGRlIHJlYWxpZGFk
+IHZpcnR1YWwsIHF1ZSBwcm9tZXRlbiB0cmFlciBudWV2YXMgZXhwZXJpZW5jaWFzIGFsIG11bmRv
+IGFiaWVydG8gZGVsIGVudHJldGVuaW1pZW50byBlbGVjdHLzbmljby4NCg0K
+</rvf></Component><Component type="3" id="image2" zorder="0" filename="image3539140" left="0" top="905" width="1227" height="905" originwidth="626" originheight="475" src="WSB://images\fondo-transparente-videojuegos_6997-1230.jpg" previewfile="WSB://images\fondo-transparente-videojuegos_6997-1230.jpg" thumbname="thumb4226750" resamplename="img4226765" exportfilename="images/fondo-transparente-videojuegos_6997-1230.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="2" filename="image945312" left="154" top="565" width="207" height="155" originwidth="259" originheight="194" src="WSB://images\donkey kong.jpg" previewfile="WSB://images\donkey kong.jpg" thumbname="thumb4226796" resamplename="img4226812" exportfilename="images/donkey kong.jpg" fp="1" lp="1"/><Component type="3" id="image1" zorder="3" filename="image1099421" left="140" top="531" width="232" height="137" originwidth="898" originheight="504" src="WSB://images\1984-macintoch.png" previewfile="WSB://images\1984-macintoch.png" thumbname="thumb4226843" resamplename="img4226859" exportfilename="images/1984-macintoch.png" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image1142015" left="564" top="519" width="190" height="178" originwidth="190" originheight="178" src="WSB://images\compu.png" previewfile="WSB://images\compu.png" thumbname="thumb4226890" resamplename="img4226906" exportfilename="images/compu.png" fp="1" lp="1"/><Component type="3" id="image8" zorder="5" filename="image1531921" width="201" height="181" originwidth="589" originheight="534" src="WSB://images\paste2.jpg" previewfile="WSB://images\paste2.jpg" left="968" top="523" thumbname="thumb4226937" resamplename="img4226953" exportfilename="images/paste2.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="6" filename="image1810187" left="0" top="0" width="196" height="72" originwidth="370" originheight="136" src="WSB://images\Imagen3.png" previewfile="WSB://images\Imagen3.png" linkurl="page://p7866437" lp="1" thumbname="thumb4226984" resamplename="img4227000" exportfilename="images/Imagen3.png" fp="1"/><Component type="2" id="text2" zorder="7" filename="text494656" left="68" top="22" width="99" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" style="font-size:24px;"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" class="ws18"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDb3VyaWVyBFNpemUCEgVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk1lbnUNCg==
+</rvf></Component></body></page><page id="p8861218" pageindex="2" name="Evolucion" pp="1" cp="1"><body generator="0" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" backgroundcolor="#BAFBFE" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text700510390" width="1073" height="1556" html="" left="104" top="0" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Gadugi" style="font-size:27px;"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" style="font-size:27px;"&gt;&lt;B&gt;&amp;reg;&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Goudy Stout" style="font-size:27px;"&gt;&lt;B&gt;EVOLUCION&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" style="font-size:27px;"&gt;&lt;B&gt;&amp;reg;&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Goudy Stout" style="font-size:27px;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gadugi" style="font-size:27px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:27px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Los videojuegos han evolucionado desde los primeros intentos en la decada 1950 hasta las modernas consolas y PC .&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Esta evolucion ha sido rapido y&amp;nbsp; notable,con avances tecnologicos que han permitido crear experencias hiperealistas: &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Evolucion de las consolas &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En la decada de1990 los videoguegos pasaron de los sistemas de16 bits a la primera consola domesticadas con conexion a internet.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En 2001 ,Microsoft&amp;nbsp; creo la XBOX &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En 2000,Sony lanzo la PLAY STATION 2 y Sega la Dreamcast &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *Nitendo creo la Gamecube&amp;nbsp; y la Game Boy Anvance.&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;La tecnología en desarrollo de videojuegos crece exponencialmente y está generando un mayor impacto. Cada vez más, los desarrolladores pueden contar con nuevas herramientas para sorprender al público, ya sea a través de periféricos y otros dispositivos, o aplicaciones de inteligencia artificial.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;La industria de los videojuegos supone un 0.11 % del PIB de España y, a nivel global, es un sector que genera 3.577 millones de euros, según informa la Asociación Española de Videojuegos, AEVI. Se trata de un sector que representa, tal y como subraya un informe económico elaborado por esta asociación, "el 14,3% del sector de la edición, el 9,6% del sector de la producción audiovisual (cine, video, televisión y música), el 3,8% del sector de la programación y tratamiento de datos y el 3,2% del sector de las telecomunicaciones".&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Cada innovación tecnológica que llega al mercado puede suponer un fuerte impacto tanto económico como para el propio sector: las posibilidades son casi infinitas, ya que le afectan de diferentes maneras. Hace unos pocos años, el desarrollo de la Realidad Aumentada y su uso en móviles bastó para generar juegos muy conocidos.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; Pokémon Go es un claro ejemplo de éxito. Las ciudades se llenaron de niños y mayores en busca de estas criaturas, las cuales aparecían en las calles o centros comerciales. Causó auténtico furor, demostrando que esta tecnología podría generar experiencias interesantes. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Lo mismo ha ocurrido con la Realidad Virtual, RV, que permiten vivir experiencias inmersivas gracias a los videojuegos. Proyectos como Oculus Rift marcaron el camino. La empresa Oculus ha lanzado ya varios modelos de gafas de RV para que los jugadores se sumerjan en los mundos que crean los desarrolladores, y que puedan explorar con total libertad. Pero esto es solo el principio. Todavía queda mucho margen de mejora en la jugabilidad.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Softwares para el desarrollo de videojuegos&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Otro aspecto a tener en cuenta es el desarrollo la tecnología en desarrollo de videojuegos con programas específicos. Los jugadores pueden crear sus propios videojuegos gracias a softwares como RPG Maker o GameMaker. Estos cuentan con un motor gráfico en 2D y todos los elementos necesarios para desarrollar una historia. También existen otras en 3D, las cuales han permitido que una sola persona diseñe y ponga en marcha sus propias ideas. Un buen ejemplo es el popular Stardew Valley. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;¿Cómo afecta la implantación del 5G? &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;El desarrollo e implantación del 5G tiene un fuerte impacto en la tecnología de desarrollo de videojuegos en línea, especialmente en los competitivos. Sus usuarios necesitan conexiones rápidas y fiables. Si la latencia es muy alta, las acciones se ralentizan y la experiencia se resiente. Lo normal es jugar con un retardo de unos 30-40 milisegundos. De hecho, alcanzar el segundo es sinónimo de que la conexión puede tener un problema.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;El 5G ofrece latencias que bajan a un solo milisegundo, lo que permite jugar en tiempo real. Así, los videojuegos en el teléfono móvil podrían ganar en usuarios, en especial aquellos que dependen de servicios de emisión en directo. Empresas como Microsoft o Nvidia cuentan con plataformas dedicadas a esta actividad que permiten acceder a juegos de ordenador y videoconsola en cualquier lugar, solo con una conexión de calidad y un terminal convencional. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;El despliegue de la red 5G permite que cualquier persona pueda jugar desde cualquier sitio.&amp;nbsp; La conexión garantiza un retardo nulo en las acciones, por lo que su experiencia será positiva.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; De hecho, a la hora de jugar no existen diferencias sustanciales entre jugar en línea o directamente en el ordenador o videoconsola.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;La Inteligencia Artificial como factor clave &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;La IA es clave para buena parte de los videojuegos, especialmente los enfocados en campañas de un solo jugador. La experiencia depende de que exista un reto que merezca la pena superar. De lo contrario, el juego perdería gran parte de su sentido y emoción.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Con el desarrollo de esta tecnología, los jugadores se enfrentan a retos mucho más entretenidos: tienen que diseñar estrategias para lograr los objetivos marcados, algo que llega a ofrecer cientos de horas de diversión, y puede que al final dominen por completo el juego, pero eso ocurrirá tras haberlo completado en varias ocasiones. Además, en el caso de los jugadores competitivos les ayuda a entrenar y a desarrollar sus habilidades.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Con el foco puesto desde otro punto de vista, esto sucede al revés. Hay empresas como Google que han creado algunas Inteligencias Artificiales muy complejas que son capaces de aprender a través de los juegos y el Machine Learning, para mejorar las capacidades de aprendizaje de sus redes neuronales, jugando con humanos, por ejemplo al ajedrez, y creando modelos de colaboración con los jugadores.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Más servicios para todos &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;En 2021, Movistar firmó un acuerdo pionero con Microsoft, que la convertía en la única empresa de telecomunicaciones en España que ofrecía este servicio a sus clientes, mejorando así la carta de servicios que venía ofreciendo hasta el momento, además de los servicios fundamentales para los gamers como son la fibra, la conectividad del hogar y el 5G. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;De esta forma los clientes de la operadora disfrutan de Xbox Game Pass Ultimate, el servicio de subscripción en gaming de Xbox y de los más de 100 juegos de alta calidad, además de acceso a Xbox Live Gold, EA Play, y a Xbox Cloud Gaming, la solución de juego en la nube de Xbox, para jugar desde cualquier sitio y en diferentes dispositivos, PC, teléfono móvil o tableta.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;Está claro que el sector de los videojuegos se adapta con facilidad a las novedades tecnológicas y las integra para generar mejores experiencias y muchas horas de pura diversión. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" style="font-size:16px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Gadugi" class="ws20"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" class="ws20"&gt;&lt;B&gt;&amp;reg;&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Goudy Stout" class="ws20"&gt;&lt;B&gt;EVOLUCION&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" class="ws20"&gt;&lt;B&gt;&amp;reg;&lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Goudy Stout" class="ws20"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gadugi" class="ws20"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws20"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Los videojuegos han evolucionado desde los primeros intentos en la decada 1950 hasta las modernas consolas y PC .&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Esta evolucion ha sido rapido y&amp;nbsp; notable,con avances tecnologicos que han permitido crear experencias hiperealistas: &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Evolucion de las consolas &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En la decada de1990 los videoguegos pasaron de los sistemas de16 bits a la primera consola domesticadas con conexion a internet.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En 2001 ,Microsoft&amp;nbsp; creo la XBOX &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *En 2000,Sony lanzo la PLAY STATION 2 y Sega la Dreamcast &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; *Nitendo creo la Gamecube&amp;nbsp; y la Game Boy Anvance.&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;La tecnología en desarrollo de videojuegos crece exponencialmente y está generando un mayor impacto. Cada vez más, los desarrolladores pueden contar con nuevas herramientas para sorprender al público, ya sea a través de periféricos y otros dispositivos, o aplicaciones de inteligencia artificial.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;La industria de los videojuegos supone un 0.11 % del PIB de España y, a nivel global, es un sector que genera 3.577 millones de euros, según informa la Asociación Española de Videojuegos, AEVI. Se trata de un sector que representa, tal y como subraya un informe económico elaborado por esta asociación, "el 14,3% del sector de la edición, el 9,6% del sector de la producción audiovisual (cine, video, televisión y música), el 3,8% del sector de la programación y tratamiento de datos y el 3,2% del sector de las telecomunicaciones".&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Cada innovación tecnológica que llega al mercado puede suponer un fuerte impacto tanto económico como para el propio sector: las posibilidades son casi infinitas, ya que le afectan de diferentes maneras. Hace unos pocos años, el desarrollo de la Realidad Aumentada y su uso en móviles bastó para generar juegos muy conocidos.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; Pokémon Go es un claro ejemplo de éxito. Las ciudades se llenaron de niños y mayores en busca de estas criaturas, las cuales aparecían en las calles o centros comerciales. Causó auténtico furor, demostrando que esta tecnología podría generar experiencias interesantes. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Lo mismo ha ocurrido con la Realidad Virtual, RV, que permiten vivir experiencias inmersivas gracias a los videojuegos. Proyectos como Oculus Rift marcaron el camino. La empresa Oculus ha lanzado ya varios modelos de gafas de RV para que los jugadores se sumerjan en los mundos que crean los desarrolladores, y que puedan explorar con total libertad. Pero esto es solo el principio. Todavía queda mucho margen de mejora en la jugabilidad.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Softwares para el desarrollo de videojuegos&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Otro aspecto a tener en cuenta es el desarrollo la tecnología en desarrollo de videojuegos con programas específicos. Los jugadores pueden crear sus propios videojuegos gracias a softwares como RPG Maker o GameMaker. Estos cuentan con un motor gráfico en 2D y todos los elementos necesarios para desarrollar una historia. También existen otras en 3D, las cuales han permitido que una sola persona diseñe y ponga en marcha sus propias ideas. Un buen ejemplo es el popular Stardew Valley. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;¿Cómo afecta la implantación del 5G? &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;El desarrollo e implantación del 5G tiene un fuerte impacto en la tecnología de desarrollo de videojuegos en línea, especialmente en los competitivos. Sus usuarios necesitan conexiones rápidas y fiables. Si la latencia es muy alta, las acciones se ralentizan y la experiencia se resiente. Lo normal es jugar con un retardo de unos 30-40 milisegundos. De hecho, alcanzar el segundo es sinónimo de que la conexión puede tener un problema.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;El 5G ofrece latencias que bajan a un solo milisegundo, lo que permite jugar en tiempo real. Así, los videojuegos en el teléfono móvil podrían ganar en usuarios, en especial aquellos que dependen de servicios de emisión en directo. Empresas como Microsoft o Nvidia cuentan con plataformas dedicadas a esta actividad que permiten acceder a juegos de ordenador y videoconsola en cualquier lugar, solo con una conexión de calidad y un terminal convencional. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;El despliegue de la red 5G permite que cualquier persona pueda jugar desde cualquier sitio.&amp;nbsp; La conexión garantiza un retardo nulo en las acciones, por lo que su experiencia será positiva.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; De hecho, a la hora de jugar no existen diferencias sustanciales entre jugar en línea o directamente en el ordenador o videoconsola.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;La Inteligencia Artificial como factor clave &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;La IA es clave para buena parte de los videojuegos, especialmente los enfocados en campañas de un solo jugador. La experiencia depende de que exista un reto que merezca la pena superar. De lo contrario, el juego perdería gran parte de su sentido y emoción.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Con el desarrollo de esta tecnología, los jugadores se enfrentan a retos mucho más entretenidos: tienen que diseñar estrategias para lograr los objetivos marcados, algo que llega a ofrecer cientos de horas de diversión, y puede que al final dominen por completo el juego, pero eso ocurrirá tras haberlo completado en varias ocasiones. Además, en el caso de los jugadores competitivos les ayuda a entrenar y a desarrollar sus habilidades.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Con el foco puesto desde otro punto de vista, esto sucede al revés. Hay empresas como Google que han creado algunas Inteligencias Artificiales muy complejas que son capaces de aprender a través de los juegos y el Machine Learning, para mejorar las capacidades de aprendizaje de sus redes neuronales, jugando con humanos, por ejemplo al ajedrez, y creando modelos de colaboración con los jugadores.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Más servicios para todos &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;En 2021, Movistar firmó un acuerdo pionero con Microsoft, que la convertía en la única empresa de telecomunicaciones en España que ofrecía este servicio a sus clientes, mejorando así la carta de servicios que venía ofreciendo hasta el momento, además de los servicios fundamentales para los gamers como son la fibra, la conectividad del hogar y el 5G. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;De esta forma los clientes de la operadora disfrutan de Xbox Game Pass Ultimate, el servicio de subscripción en gaming de Xbox y de los más de 100 juegos de alta calidad, además de acceso a Xbox Live Gold, EA Play, y a Xbox Cloud Gaming, la solución de juego en la nube de Xbox, para jugar desde cualquier sitio y en diferentes dispositivos, PC, teléfono móvil o tableta.&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;Está claro que el sector de los videojuegos se adapta con facilidad a las novedades tecnológicas y las integra para generar mejores experiencias y muchas horas de pura diversión. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#000000" face="Gill Sans Ultra Bold" class="ws12"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZHYWR1Z2kEU2l6ZQIUBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGFEdpbGwgU2FucyBVbHRyYSBCb2xkBFNp
+emUCDAVDb2xvcgcHY2xCbGFjawABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBhRHaWxsIFNhbnMgVWx0cmEgQm9sZARTaXplAhQFU3R5bGULBmZzQm9sZAAFQ29sb3IH
+B2NsQmxhY2sAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGR2Fk
+dWdpBFNpemUCFAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xCbGFjawABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgtHb3VkeSBTdG91dARTaXplAhQFU3R5bGULBmZz
+Qm9sZAAFQ29sb3IHB2NsQmxhY2sAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAdD
+aGFyc2V0Bw5TWU1CT0xfQ0hBUlNFVAhGb250TmFtZQYGU3ltYm9sBFNpemUCFAVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgcHY2xCbGFjawdVbmljb2RlCQpQcm90ZWN0aW9uCxNydnByRG9Ob3RBdXRvU3dp
+dGNoAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCiAgICAgDQo4
+IDEgMSA4IDAgMA0K0gApIDcgMSAtMSAxIDAgMA0KRVZPTFVDSU9ODQo4IDEgLTEgOSAwIDANCtIA
+KSA3IDEgLTEgMSAwIDANCiANCjYgMSAxIDAgMCAwDQoNCjUgMSAxIDAgMCAwDQoNCjQgNjkgMSAw
+IDAgMA0KICAgICAgICAgIExvcyB2aWRlb2p1ZWdvcyBoYW4gZXZvbHVjaW9uYWRvIGRlc2RlIGxv
+cyBwcmltZXJvcyBpbnRlbnRvcyBlbiBsYSBkZWNhZGEgMTk1MCBoYXN0YSBsYXMgbW9kZXJuYXMg
+Y29uc29sYXMgeSBQQyAuDQogICAgICAgICBFc3RhIGV2b2x1Y2lvbiBoYSBzaWRvIHJhcGlkbyB5
+ICBub3RhYmxlLGNvbiBhdmFuY2VzIHRlY25vbG9naWNvcyBxdWUgaGFuIHBlcm1pdGlkbyBjcmVh
+ciBleHBlcmVuY2lhcyBoaXBlcmVhbGlzdGFzOiANCiAgICAgICAgICAgICAgRXZvbHVjaW9uIGRl
+IGxhcyBjb25zb2xhcyANCg0KICAgICAgICAqRW4gbGEgZGVjYWRhIGRlMTk5MCBsb3MgdmlkZW9n
+dWVnb3MgcGFzYXJvbiBkZSBsb3Mgc2lzdGVtYXMgZGUxNiBiaXRzIGEgbGEgcHJpbWVyYSBjb25z
+b2xhIGRvbWVzdGljYWRhcyBjb24gY29uZXhpb24gYSBpbnRlcm5ldC4NCg0KICAgICAgICAqRW4g
+MjAwMSAsTWljcm9zb2Z0ICBjcmVvIGxhIFhCT1ggDQoNCiAgICAgICAgICpFbiAyMDAwLFNvbnkg
+bGFuem8gbGEgUExBWSBTVEFUSU9OIDIgeSBTZWdhIGxhIERyZWFtY2FzdCANCg0KICAgICAgICAq
+Tml0ZW5kbyBjcmVvIGxhIEdhbWVjdWJlICB5IGxhIEdhbWUgQm95IEFudmFuY2UuICAgDQoNCiAN
+CkxhIHRlY25vbG9n7WEgZW4gZGVzYXJyb2xsbyBkZSB2aWRlb2p1ZWdvcyBjcmVjZSBleHBvbmVu
+Y2lhbG1lbnRlIHkgZXN04SBnZW5lcmFuZG8gdW4gbWF5b3IgaW1wYWN0by4gQ2FkYSB2ZXogbeFz
+LCBsb3MgZGVzYXJyb2xsYWRvcmVzIHB1ZWRlbiBjb250YXIgY29uIG51ZXZhcyBoZXJyYW1pZW50
+YXMgcGFyYSBzb3JwcmVuZGVyIGFsIHD6YmxpY28sIHlhIHNlYSBhIHRyYXbpcyBkZSBwZXJpZuly
+aWNvcyB5IG90cm9zIGRpc3Bvc2l0aXZvcywgbyBhcGxpY2FjaW9uZXMgZGUgaW50ZWxpZ2VuY2lh
+IGFydGlmaWNpYWwuDQoNCg0KTGEgaW5kdXN0cmlhIGRlIGxvcyB2aWRlb2p1ZWdvcyBzdXBvbmUg
+dW4gMC4xMSAlIGRlbCBQSUIgZGUgRXNwYfFhIHksIGEgbml2ZWwgZ2xvYmFsLCBlcyB1biBzZWN0
+b3IgcXVlIGdlbmVyYSAzLjU3NyBtaWxsb25lcyBkZSBldXJvcywgc2Vn+m4gaW5mb3JtYSBsYSBB
+c29jaWFjafNuIEVzcGHxb2xhIGRlIFZpZGVvanVlZ29zLCBBRVZJLiBTZSB0cmF0YSBkZSB1biBz
+ZWN0b3IgcXVlIHJlcHJlc2VudGEsIHRhbCB5IGNvbW8gc3VicmF5YSB1biBpbmZvcm1lIGVjb27z
+bWljbyBlbGFib3JhZG8gcG9yIGVzdGEgYXNvY2lhY2nzbiwgImVsIDE0LDMlIGRlbCBzZWN0b3Ig
+ZGUgbGEgZWRpY2nzbiwgZWwgOSw2JSBkZWwgc2VjdG9yIGRlIGxhIHByb2R1Y2Np824gYXVkaW92
+aXN1YWwgKGNpbmUsIHZpZGVvLCB0ZWxldmlzafNuIHkgbfpzaWNhKSwgZWwgMyw4JSBkZWwgc2Vj
+dG9yIGRlIGxhIHByb2dyYW1hY2nzbiB5IHRyYXRhbWllbnRvIGRlIGRhdG9zIHkgZWwgMywyJSBk
+ZWwgc2VjdG9yIGRlIGxhcyB0ZWxlY29tdW5pY2FjaW9uZXMiLg0KDQoNCiAgDQpDYWRhIGlubm92
+YWNp824gdGVjbm9s82dpY2EgcXVlIGxsZWdhIGFsIG1lcmNhZG8gcHVlZGUgc3Vwb25lciB1biBm
+dWVydGUgaW1wYWN0byB0YW50byBlY29u821pY28gY29tbyBwYXJhIGVsIHByb3BpbyBzZWN0b3I6
+IGxhcyBwb3NpYmlsaWRhZGVzIHNvbiBjYXNpIGluZmluaXRhcywgeWEgcXVlIGxlIGFmZWN0YW4g
+ZGUgZGlmZXJlbnRlcyBtYW5lcmFzLiBIYWNlIHVub3MgcG9jb3MgYfFvcywgZWwgZGVzYXJyb2xs
+byBkZSBsYSBSZWFsaWRhZCBBdW1lbnRhZGEgeSBzdSB1c28gZW4gbfN2aWxlcyBiYXN08yBwYXJh
+IGdlbmVyYXIganVlZ29zIG11eSBjb25vY2lkb3MuDQoNCiBQb2vpbW9uIEdvIGVzIHVuIGNsYXJv
+IGVqZW1wbG8gZGUg6XhpdG8uIExhcyBjaXVkYWRlcyBzZSBsbGVuYXJvbiBkZSBuafFvcyB5IG1h
+eW9yZXMgZW4gYnVzY2EgZGUgZXN0YXMgY3JpYXR1cmFzLCBsYXMgY3VhbGVzIGFwYXJlY+1hbiBl
+biBsYXMgY2FsbGVzIG8gY2VudHJvcyBjb21lcmNpYWxlcy4gQ2F1c/MgYXV06W50aWNvIGZ1cm9y
+LCBkZW1vc3RyYW5kbyBxdWUgZXN0YSB0ZWNub2xvZ+1hIHBvZHLtYSBnZW5lcmFyIGV4cGVyaWVu
+Y2lhcyBpbnRlcmVzYW50ZXMuIA0KDQoNCkxvIG1pc21vIGhhIG9jdXJyaWRvIGNvbiBsYSBSZWFs
+aWRhZCBWaXJ0dWFsLCBSViwgcXVlIHBlcm1pdGVuIHZpdmlyIGV4cGVyaWVuY2lhcyBpbm1lcnNp
+dmFzIGdyYWNpYXMgYSBsb3MgdmlkZW9qdWVnb3MuIFByb3llY3RvcyBjb21vIE9jdWx1cyBSaWZ0
+IG1hcmNhcm9uIGVsIGNhbWluby4gTGEgZW1wcmVzYSBPY3VsdXMgaGEgbGFuemFkbyB5YSB2YXJp
+b3MgbW9kZWxvcyBkZSBnYWZhcyBkZSBSViBwYXJhIHF1ZSBsb3MganVnYWRvcmVzIHNlIHN1bWVy
+amFuIGVuIGxvcyBtdW5kb3MgcXVlIGNyZWFuIGxvcyBkZXNhcnJvbGxhZG9yZXMsIHkgcXVlIHB1
+ZWRhbiBleHBsb3JhciBjb24gdG90YWwgbGliZXJ0YWQuIFBlcm8gZXN0byBlcyBzb2xvIGVsIHBy
+aW5jaXBpby4gVG9kYXbtYSBxdWVkYSBtdWNobyBtYXJnZW4gZGUgbWVqb3JhIGVuIGxhIGp1Z2Fi
+aWxpZGFkLg0KDQoNCg0KIA0KU29mdHdhcmVzIHBhcmEgZWwgZGVzYXJyb2xsbyBkZSB2aWRlb2p1
+ZWdvcw0KT3RybyBhc3BlY3RvIGEgdGVuZXIgZW4gY3VlbnRhIGVzIGVsIGRlc2Fycm9sbG8gbGEg
+dGVjbm9sb2ftYSBlbiBkZXNhcnJvbGxvIGRlIHZpZGVvanVlZ29zIGNvbiBwcm9ncmFtYXMgZXNw
+ZWPtZmljb3MuIExvcyBqdWdhZG9yZXMgcHVlZGVuIGNyZWFyIHN1cyBwcm9waW9zIHZpZGVvanVl
+Z29zIGdyYWNpYXMgYSBzb2Z0d2FyZXMgY29tbyBSUEcgTWFrZXIgbyBHYW1lTWFrZXIuIEVzdG9z
+IGN1ZW50YW4gY29uIHVuIG1vdG9yIGdy4WZpY28gZW4gMkQgeSB0b2RvcyBsb3MgZWxlbWVudG9z
+IG5lY2VzYXJpb3MgcGFyYSBkZXNhcnJvbGxhciB1bmEgaGlzdG9yaWEuIFRhbWJp6W4gZXhpc3Rl
+biBvdHJhcyBlbiAzRCwgbGFzIGN1YWxlcyBoYW4gcGVybWl0aWRvIHF1ZSB1bmEgc29sYSBwZXJz
+b25hIGRpc2XxZSB5IHBvbmdhIGVuIG1hcmNoYSBzdXMgcHJvcGlhcyBpZGVhcy4gVW4gYnVlbiBl
+amVtcGxvIGVzIGVsIHBvcHVsYXIgU3RhcmRldyBWYWxsZXkuIA0KDQoNCg0Kv0PzbW8gYWZlY3Rh
+IGxhIGltcGxhbnRhY2nzbiBkZWwgNUc/IA0KRWwgZGVzYXJyb2xsbyBlIGltcGxhbnRhY2nzbiBk
+ZWwgNUcgdGllbmUgdW4gZnVlcnRlIGltcGFjdG8gZW4gbGEgdGVjbm9sb2ftYSBkZSBkZXNhcnJv
+bGxvIGRlIHZpZGVvanVlZ29zIGVuIGztbmVhLCBlc3BlY2lhbG1lbnRlIGVuIGxvcyBjb21wZXRp
+dGl2b3MuIFN1cyB1c3VhcmlvcyBuZWNlc2l0YW4gY29uZXhpb25lcyBy4XBpZGFzIHkgZmlhYmxl
+cy4gU2kgbGEgbGF0ZW5jaWEgZXMgbXV5IGFsdGEsIGxhcyBhY2Npb25lcyBzZSByYWxlbnRpemFu
+IHkgbGEgZXhwZXJpZW5jaWEgc2UgcmVzaWVudGUuIExvIG5vcm1hbCBlcyBqdWdhciBjb24gdW4g
+cmV0YXJkbyBkZSB1bm9zIDMwLTQwIG1pbGlzZWd1bmRvcy4gRGUgaGVjaG8sIGFsY2FuemFyIGVs
+IHNlZ3VuZG8gZXMgc2lu825pbW8gZGUgcXVlIGxhIGNvbmV4afNuIHB1ZWRlIHRlbmVyIHVuIHBy
+b2JsZW1hLg0KDQoNCiANCkVsIDVHIG9mcmVjZSBsYXRlbmNpYXMgcXVlIGJhamFuIGEgdW4gc29s
+byBtaWxpc2VndW5kbywgbG8gcXVlIHBlcm1pdGUganVnYXIgZW4gdGllbXBvIHJlYWwuIEFz7Swg
+bG9zIHZpZGVvanVlZ29zIGVuIGVsIHRlbOlmb25vIG3zdmlsIHBvZHLtYW4gZ2FuYXIgZW4gdXN1
+YXJpb3MsIGVuIGVzcGVjaWFsIGFxdWVsbG9zIHF1ZSBkZXBlbmRlbiBkZSBzZXJ2aWNpb3MgZGUg
+ZW1pc2nzbiBlbiBkaXJlY3RvLiBFbXByZXNhcyBjb21vIE1pY3Jvc29mdCBvIE52aWRpYSBjdWVu
+dGFuIGNvbiBwbGF0YWZvcm1hcyBkZWRpY2FkYXMgYSBlc3RhIGFjdGl2aWRhZCBxdWUgcGVybWl0
+ZW4gYWNjZWRlciBhIGp1ZWdvcyBkZSBvcmRlbmFkb3IgeSB2aWRlb2NvbnNvbGEgZW4gY3VhbHF1
+aWVyIGx1Z2FyLCBzb2xvIGNvbiB1bmEgY29uZXhp824gZGUgY2FsaWRhZCB5IHVuIHRlcm1pbmFs
+IGNvbnZlbmNpb25hbC4gDQpFbCBkZXNwbGllZ3VlIGRlIGxhIHJlZCA1RyBwZXJtaXRlIHF1ZSBj
+dWFscXVpZXIgcGVyc29uYSBwdWVkYSBqdWdhciBkZXNkZSBjdWFscXVpZXIgc2l0aW8uICBMYSBj
+b25leGnzbiBnYXJhbnRpemEgdW4gcmV0YXJkbyBudWxvIGVuIGxhcyBhY2Npb25lcywgcG9yIGxv
+IHF1ZSBzdSBleHBlcmllbmNpYSBzZXLhIHBvc2l0aXZhLg0KDQoNCiBEZSBoZWNobywgYSBsYSBo
+b3JhIGRlIGp1Z2FyIG5vIGV4aXN0ZW4gZGlmZXJlbmNpYXMgc3VzdGFuY2lhbGVzIGVudHJlIGp1
+Z2FyIGVuIGztbmVhIG8gZGlyZWN0YW1lbnRlIGVuIGVsIG9yZGVuYWRvciBvIHZpZGVvY29uc29s
+YS4NCg0KDQoNCg0KDQogDQpMYSBJbnRlbGlnZW5jaWEgQXJ0aWZpY2lhbCBjb21vIGZhY3RvciBj
+bGF2ZSANCkxhIElBIGVzIGNsYXZlIHBhcmEgYnVlbmEgcGFydGUgZGUgbG9zIHZpZGVvanVlZ29z
+LCBlc3BlY2lhbG1lbnRlIGxvcyBlbmZvY2Fkb3MgZW4gY2FtcGHxYXMgZGUgdW4gc29sbyBqdWdh
+ZG9yLiBMYSBleHBlcmllbmNpYSBkZXBlbmRlIGRlIHF1ZSBleGlzdGEgdW4gcmV0byBxdWUgbWVy
+ZXpjYSBsYSBwZW5hIHN1cGVyYXIuIERlIGxvIGNvbnRyYXJpbywgZWwganVlZ28gcGVyZGVy7WEg
+Z3JhbiBwYXJ0ZSBkZSBzdSBzZW50aWRvIHkgZW1vY2nzbi4gIA0KQ29uIGVsIGRlc2Fycm9sbG8g
+ZGUgZXN0YSB0ZWNub2xvZ+1hLCBsb3MganVnYWRvcmVzIHNlIGVuZnJlbnRhbiBhIHJldG9zIG11
+Y2hvIG3hcyBlbnRyZXRlbmlkb3M6IHRpZW5lbiBxdWUgZGlzZfFhciBlc3RyYXRlZ2lhcyBwYXJh
+IGxvZ3JhciBsb3Mgb2JqZXRpdm9zIG1hcmNhZG9zLCBhbGdvIHF1ZSBsbGVnYSBhIG9mcmVjZXIg
+Y2llbnRvcyBkZSBob3JhcyBkZSBkaXZlcnNp824sIHkgcHVlZGUgcXVlIGFsIGZpbmFsIGRvbWlu
+ZW4gcG9yIGNvbXBsZXRvIGVsIGp1ZWdvLCBwZXJvIGVzbyBvY3Vycmly4SB0cmFzIGhhYmVybG8g
+Y29tcGxldGFkbyBlbiB2YXJpYXMgb2Nhc2lvbmVzLiBBZGVt4XMsIGVuIGVsIGNhc28gZGUgbG9z
+IGp1Z2Fkb3JlcyBjb21wZXRpdGl2b3MgbGVzIGF5dWRhIGEgZW50cmVuYXIgeSBhIGRlc2Fycm9s
+bGFyIHN1cyBoYWJpbGlkYWRlcy4gIA0KQ29uIGVsIGZvY28gcHVlc3RvIGRlc2RlIG90cm8gcHVu
+dG8gZGUgdmlzdGEsIGVzdG8gc3VjZWRlIGFsIHJldulzLiBIYXkgZW1wcmVzYXMgY29tbyBHb29n
+bGUgcXVlIGhhbiBjcmVhZG8gYWxndW5hcyBJbnRlbGlnZW5jaWFzIEFydGlmaWNpYWxlcyBtdXkg
+Y29tcGxlamFzIHF1ZSBzb24gY2FwYWNlcyBkZSBhcHJlbmRlciBhIHRyYXbpcyBkZSBsb3MganVl
+Z29zIHkgZWwgTWFjaGluZSBMZWFybmluZywgcGFyYSBtZWpvcmFyIGxhcyBjYXBhY2lkYWRlcyBk
+ZSBhcHJlbmRpemFqZSBkZSBzdXMgcmVkZXMgbmV1cm9uYWxlcywganVnYW5kbyBjb24gaHVtYW5v
+cywgcG9yIGVqZW1wbG8gYWwgYWplZHJleiwgeSBjcmVhbmRvIG1vZGVsb3MgZGUgY29sYWJvcmFj
+afNuIGNvbiBsb3MganVnYWRvcmVzLiAgDQoNCg0KDQoNCg0KDQoNCg0KTeFzIHNlcnZpY2lvcyBw
+YXJhIHRvZG9zIA0KRW4gMjAyMSwgTW92aXN0YXIgZmlybfMgdW4gYWN1ZXJkbyBwaW9uZXJvIGNv
+biBNaWNyb3NvZnQsIHF1ZSBsYSBjb252ZXJ07WEgZW4gbGEg+m5pY2EgZW1wcmVzYSBkZSB0ZWxl
+Y29tdW5pY2FjaW9uZXMgZW4gRXNwYfFhIHF1ZSBvZnJlY+1hIGVzdGUgc2VydmljaW8gYSBzdXMg
+Y2xpZW50ZXMsIG1lam9yYW5kbyBhc+0gbGEgY2FydGEgZGUgc2VydmljaW9zIHF1ZSB2ZW7tYSBv
+ZnJlY2llbmRvIGhhc3RhIGVsIG1vbWVudG8sIGFkZW3hcyBkZSBsb3Mgc2VydmljaW9zIGZ1bmRh
+bWVudGFsZXMgcGFyYSBsb3MgZ2FtZXJzIGNvbW8gc29uIGxhIGZpYnJhLCBsYSBjb25lY3Rpdmlk
+YWQgZGVsIGhvZ2FyIHkgZWwgNUcuIA0KRGUgZXN0YSBmb3JtYSBsb3MgY2xpZW50ZXMgZGUgbGEg
+b3BlcmFkb3JhIGRpc2ZydXRhbiBkZSBYYm94IEdhbWUgUGFzcyBVbHRpbWF0ZSwgZWwgc2Vydmlj
+aW8gZGUgc3Vic2NyaXBjafNuIGVuIGdhbWluZyBkZSBYYm94IHkgZGUgbG9zIG3hcyBkZSAxMDAg
+anVlZ29zIGRlIGFsdGEgY2FsaWRhZCwgYWRlbeFzIGRlIGFjY2VzbyBhIFhib3ggTGl2ZSBHb2xk
+LCBFQSBQbGF5LCB5IGEgWGJveCBDbG91ZCBHYW1pbmcsIGxhIHNvbHVjafNuIGRlIGp1ZWdvIGVu
+IGxhIG51YmUgZGUgWGJveCwgcGFyYSBqdWdhciBkZXNkZSBjdWFscXVpZXIgc2l0aW8geSBlbiBk
+aWZlcmVudGVzIGRpc3Bvc2l0aXZvcywgUEMsIHRlbOlmb25vIG3zdmlsIG8gdGFibGV0YS4gIA0K
+RXN04SBjbGFybyBxdWUgZWwgc2VjdG9yIGRlIGxvcyB2aWRlb2p1ZWdvcyBzZSBhZGFwdGEgY29u
+IGZhY2lsaWRhZCBhIGxhcyBub3ZlZGFkZXMgdGVjbm9s82dpY2FzIHkgbGFzIGludGVncmEgcGFy
+YSBnZW5lcmFyIG1lam9yZXMgZXhwZXJpZW5jaWFzIHkgbXVjaGFzIGhvcmFzIGRlIHB1cmEgZGl2
+ZXJzafNuLiANCg0KICANCg==
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image1977203" left="0" top="0" width="196" height="72" originwidth="370" originheight="136" src="WSB://images\Imagen3.png" previewfile="WSB://images\Imagen3.png" linkurl="page://p7866437" thumbname="thumb4227031" resamplename="img4227046" exportfilename="images/Imagen3.png" fp="1" lp="1"/><Component type="2" id="text2" zorder="2" filename="text471078" left="68" top="23" width="99" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" style="font-size:24px;"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" class="ws18"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDb3VyaWVyBFNpemUCEgVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk1lbnUNCg==
+</rvf></Component></body></page><page id="p8861515" pageindex="3" name="Infruencia en la cultura" pp="1" cp="1"><body backgroundcolor="#FF6600" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text1677796" left="29" top="170" width="1185" height="1591" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;Impacto de los videojuegos en la sociedad&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;El impacto de los videojuegos en la sociedad actual es amplio y diverso, ya que han pasado de ser una forma de entretenimiento nicho a convertirse en una de las industrias culturales más influyentes del mundo. A continuación, destacaré algunos de los principales aspectos del impacto de los videojuegos en la sociedad:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;1. Entretenimiento y cultura pop: Los videojuegos se han convertido en una parte importante de la cultura popular y del entretenimiento en general. Grandes títulos y sagas de videojuegos pueden generar la misma emoción y anticipación que una película de gran presupuesto o un libro de éxito. Personajes de videojuegos icónicos, como Mario, Lara Croft, o Master Chief, se han vuelto emblemáticos en la cultura popular.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;2. Diversidad de géneros y audiencias: Los videojuegos abarcan una amplia variedad de géneros, desde aventuras y acción hasta simuladores y juegos educativos. Esta diversidad ha atraído a una amplia gama de audiencias, incluyendo a personas de diferentes edades, géneros y culturas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;3. Educación y aprendizaje: Los videojuegos educativos han demostrado ser una herramienta eficaz para el aprendizaje y el desarrollo de habilidades cognitivas y sociales en niños y adultos. Existen juegos que enseñan matemáticas, idiomas, historia, entre otros temas, de una manera interactiva y atractiva.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;4. Socialización y comunidad: Los videojuegos en línea y los juegos multijugador han permitido que millones de personas se conecten y socialicen en comunidades virtuales. Esto ha dado lugar a amistades, relaciones y eventos sociales en el mundo digital.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;5. Industria económica y empleo: La industria de los videojuegos es una de las más lucrativas del mundo, generando miles de millones de dólares en ingresos. Esto ha impulsado la creación de empleos en desarrollo de software, diseño gráfico, narrativa, doblaje, entre otros campos.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;6. Innovación tecnológica: Los videojuegos han sido un motor clave para el avance de la tecnología gráfica y de hardware. La demanda de gráficos de alta calidad y la necesidad de procesamiento rápido han llevado a mejoras en la tecnología de computadoras y consolas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;7. Controversias y preocupaciones: Aunque los videojuegos han tenido un impacto positivo en muchas áreas, también han sido objeto de controversia. Se ha debatido sobre la violencia en los videojuegos y su posible influencia en el comportamiento agresivo de algunos jugadores. También se ha discutido sobre el tiempo excesivo dedicado a los videojuegos y su impacto en la salud física y mental de las personas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;En general, los videojuegos han demostrado ser una forma poderosa de entretenimiento, educación e interacción social. Su impacto en la sociedad es cada vez más significativo a medida que la industria continúa creciendo y evolucionando. Como con cualquier forma de entretenimiento o tecnología, es importante mantener un equilibrio y conciencia sobre su uso y efectos en nuestra vida diaria.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;Impacto de los videojuegos en la sociedad&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;El impacto de los videojuegos en la sociedad actual es amplio y diverso, ya que han pasado de ser una forma de entretenimiento nicho a convertirse en una de las industrias culturales más influyentes del mundo. A continuación, destacaré algunos de los principales aspectos del impacto de los videojuegos en la sociedad:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;1. Entretenimiento y cultura pop: Los videojuegos se han convertido en una parte importante de la cultura popular y del entretenimiento en general. Grandes títulos y sagas de videojuegos pueden generar la misma emoción y anticipación que una película de gran presupuesto o un libro de éxito. Personajes de videojuegos icónicos, como Mario, Lara Croft, o Master Chief, se han vuelto emblemáticos en la cultura popular.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;2. Diversidad de géneros y audiencias: Los videojuegos abarcan una amplia variedad de géneros, desde aventuras y acción hasta simuladores y juegos educativos. Esta diversidad ha atraído a una amplia gama de audiencias, incluyendo a personas de diferentes edades, géneros y culturas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;3. Educación y aprendizaje: Los videojuegos educativos han demostrado ser una herramienta eficaz para el aprendizaje y el desarrollo de habilidades cognitivas y sociales en niños y adultos. Existen juegos que enseñan matemáticas, idiomas, historia, entre otros temas, de una manera interactiva y atractiva.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;4. Socialización y comunidad: Los videojuegos en línea y los juegos multijugador han permitido que millones de personas se conecten y socialicen en comunidades virtuales. Esto ha dado lugar a amistades, relaciones y eventos sociales en el mundo digital.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;5. Industria económica y empleo: La industria de los videojuegos es una de las más lucrativas del mundo, generando miles de millones de dólares en ingresos. Esto ha impulsado la creación de empleos en desarrollo de software, diseño gráfico, narrativa, doblaje, entre otros campos.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;6. Innovación tecnológica: Los videojuegos han sido un motor clave para el avance de la tecnología gráfica y de hardware. La demanda de gráficos de alta calidad y la necesidad de procesamiento rápido han llevado a mejoras en la tecnología de computadoras y consolas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;7. Controversias y preocupaciones: Aunque los videojuegos han tenido un impacto positivo en muchas áreas, también han sido objeto de controversia. Se ha debatido sobre la violencia en los videojuegos y su posible influencia en el comportamiento agresivo de algunos jugadores. También se ha discutido sobre el tiempo excesivo dedicado a los videojuegos y su impacto en la salud física y mental de las personas.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;En general, los videojuegos han demostrado ser una forma poderosa de entretenimiento, educación e interacción social. Su impacto en la sociedad es cada vez más significativo a medida que la industria continúa creciendo y evolucionando. Como con cualquier forma de entretenimiento o tecnología, es importante mantener un equilibrio y conciencia sobre su uso y efectos en nuestra vida diaria.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQosAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYVQmFobnNjaHJpZnQgQ29uZGVuc2VkBFNpemUCFAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAzNSAxIDAgMCAwDQpJbXBhY3RvIGRlIGxvcyB2aWRlb2p1
+ZWdvcyBlbiBsYSBzb2NpZWRhZA0KDQpFbCBpbXBhY3RvIGRlIGxvcyB2aWRlb2p1ZWdvcyBlbiBs
+YSBzb2NpZWRhZCBhY3R1YWwgZXMgYW1wbGlvIHkgZGl2ZXJzbywgeWEgcXVlIGhhbiBwYXNhZG8g
+ZGUgc2VyIHVuYSBmb3JtYSBkZSBlbnRyZXRlbmltaWVudG8gbmljaG8gYSBjb252ZXJ0aXJzZSBl
+biB1bmEgZGUgbGFzIGluZHVzdHJpYXMgY3VsdHVyYWxlcyBt4XMgaW5mbHV5ZW50ZXMgZGVsIG11
+bmRvLiBBIGNvbnRpbnVhY2nzbiwgZGVzdGFjYXLpIGFsZ3Vub3MgZGUgbG9zIHByaW5jaXBhbGVz
+IGFzcGVjdG9zIGRlbCBpbXBhY3RvIGRlIGxvcyB2aWRlb2p1ZWdvcyBlbiBsYSBzb2NpZWRhZDoN
+Cg0KDQoNCg0KMS4gRW50cmV0ZW5pbWllbnRvIHkgY3VsdHVyYSBwb3A6IExvcyB2aWRlb2p1ZWdv
+cyBzZSBoYW4gY29udmVydGlkbyBlbiB1bmEgcGFydGUgaW1wb3J0YW50ZSBkZSBsYSBjdWx0dXJh
+IHBvcHVsYXIgeSBkZWwgZW50cmV0ZW5pbWllbnRvIGVuIGdlbmVyYWwuIEdyYW5kZXMgdO10dWxv
+cyB5IHNhZ2FzIGRlIHZpZGVvanVlZ29zIHB1ZWRlbiBnZW5lcmFyIGxhIG1pc21hIGVtb2Np824g
+eSBhbnRpY2lwYWNp824gcXVlIHVuYSBwZWztY3VsYSBkZSBncmFuIHByZXN1cHVlc3RvIG8gdW4g
+bGlicm8gZGUg6XhpdG8uIFBlcnNvbmFqZXMgZGUgdmlkZW9qdWVnb3MgaWPzbmljb3MsIGNvbW8g
+TWFyaW8sIExhcmEgQ3JvZnQsIG8gTWFzdGVyIENoaWVmLCBzZSBoYW4gdnVlbHRvIGVtYmxlbeF0
+aWNvcyBlbiBsYSBjdWx0dXJhIHBvcHVsYXIuDQoNCg0KDQoNCjIuIERpdmVyc2lkYWQgZGUgZ+lu
+ZXJvcyB5IGF1ZGllbmNpYXM6IExvcyB2aWRlb2p1ZWdvcyBhYmFyY2FuIHVuYSBhbXBsaWEgdmFy
+aWVkYWQgZGUgZ+luZXJvcywgZGVzZGUgYXZlbnR1cmFzIHkgYWNjafNuIGhhc3RhIHNpbXVsYWRv
+cmVzIHkganVlZ29zIGVkdWNhdGl2b3MuIEVzdGEgZGl2ZXJzaWRhZCBoYSBhdHJh7WRvIGEgdW5h
+IGFtcGxpYSBnYW1hIGRlIGF1ZGllbmNpYXMsIGluY2x1eWVuZG8gYSBwZXJzb25hcyBkZSBkaWZl
+cmVudGVzIGVkYWRlcywgZ+luZXJvcyB5IGN1bHR1cmFzLg0KDQoNCg0KMy4gRWR1Y2FjafNuIHkg
+YXByZW5kaXphamU6IExvcyB2aWRlb2p1ZWdvcyBlZHVjYXRpdm9zIGhhbiBkZW1vc3RyYWRvIHNl
+ciB1bmEgaGVycmFtaWVudGEgZWZpY2F6IHBhcmEgZWwgYXByZW5kaXphamUgeSBlbCBkZXNhcnJv
+bGxvIGRlIGhhYmlsaWRhZGVzIGNvZ25pdGl2YXMgeSBzb2NpYWxlcyBlbiBuafFvcyB5IGFkdWx0
+b3MuIEV4aXN0ZW4ganVlZ29zIHF1ZSBlbnNl8WFuIG1hdGVt4XRpY2FzLCBpZGlvbWFzLCBoaXN0
+b3JpYSwgZW50cmUgb3Ryb3MgdGVtYXMsIGRlIHVuYSBtYW5lcmEgaW50ZXJhY3RpdmEgeSBhdHJh
+Y3RpdmEuDQoNCjQuIFNvY2lhbGl6YWNp824geSBjb211bmlkYWQ6IExvcyB2aWRlb2p1ZWdvcyBl
+biBs7W5lYSB5IGxvcyBqdWVnb3MgbXVsdGlqdWdhZG9yIGhhbiBwZXJtaXRpZG8gcXVlIG1pbGxv
+bmVzIGRlIHBlcnNvbmFzIHNlIGNvbmVjdGVuIHkgc29jaWFsaWNlbiBlbiBjb211bmlkYWRlcyB2
+aXJ0dWFsZXMuIEVzdG8gaGEgZGFkbyBsdWdhciBhIGFtaXN0YWRlcywgcmVsYWNpb25lcyB5IGV2
+ZW50b3Mgc29jaWFsZXMgZW4gZWwgbXVuZG8gZGlnaXRhbC4NCg0KDQoNCg0KDQo1LiBJbmR1c3Ry
+aWEgZWNvbvNtaWNhIHkgZW1wbGVvOiBMYSBpbmR1c3RyaWEgZGUgbG9zIHZpZGVvanVlZ29zIGVz
+IHVuYSBkZSBsYXMgbeFzIGx1Y3JhdGl2YXMgZGVsIG11bmRvLCBnZW5lcmFuZG8gbWlsZXMgZGUg
+bWlsbG9uZXMgZGUgZPNsYXJlcyBlbiBpbmdyZXNvcy4gRXN0byBoYSBpbXB1bHNhZG8gbGEgY3Jl
+YWNp824gZGUgZW1wbGVvcyBlbiBkZXNhcnJvbGxvIGRlIHNvZnR3YXJlLCBkaXNl8W8gZ3LhZmlj
+bywgbmFycmF0aXZhLCBkb2JsYWplLCBlbnRyZSBvdHJvcyBjYW1wb3MuDQoNCjYuIElubm92YWNp
+824gdGVjbm9s82dpY2E6IExvcyB2aWRlb2p1ZWdvcyBoYW4gc2lkbyB1biBtb3RvciBjbGF2ZSBw
+YXJhIGVsIGF2YW5jZSBkZSBsYSB0ZWNub2xvZ+1hIGdy4WZpY2EgeSBkZSBoYXJkd2FyZS4gTGEg
+ZGVtYW5kYSBkZSBncuFmaWNvcyBkZSBhbHRhIGNhbGlkYWQgeSBsYSBuZWNlc2lkYWQgZGUgcHJv
+Y2VzYW1pZW50byBy4XBpZG8gaGFuIGxsZXZhZG8gYSBtZWpvcmFzIGVuIGxhIHRlY25vbG9n7WEg
+ZGUgY29tcHV0YWRvcmFzIHkgY29uc29sYXMuDQoNCjcuIENvbnRyb3ZlcnNpYXMgeSBwcmVvY3Vw
+YWNpb25lczogQXVucXVlIGxvcyB2aWRlb2p1ZWdvcyBoYW4gdGVuaWRvIHVuIGltcGFjdG8gcG9z
+aXRpdm8gZW4gbXVjaGFzIOFyZWFzLCB0YW1iaeluIGhhbiBzaWRvIG9iamV0byBkZSBjb250cm92
+ZXJzaWEuIFNlIGhhIGRlYmF0aWRvIHNvYnJlIGxhIHZpb2xlbmNpYSBlbiBsb3MgdmlkZW9qdWVn
+b3MgeSBzdSBwb3NpYmxlIGluZmx1ZW5jaWEgZW4gZWwgY29tcG9ydGFtaWVudG8gYWdyZXNpdm8g
+ZGUgYWxndW5vcyBqdWdhZG9yZXMuIFRhbWJp6W4gc2UgaGEgZGlzY3V0aWRvIHNvYnJlIGVsIHRp
+ZW1wbyBleGNlc2l2byBkZWRpY2FkbyBhIGxvcyB2aWRlb2p1ZWdvcyB5IHN1IGltcGFjdG8gZW4g
+bGEgc2FsdWQgZu1zaWNhIHkgbWVudGFsIGRlIGxhcyBwZXJzb25hcy4NCg0KDQoNCg0KRW4gZ2Vu
+ZXJhbCwgbG9zIHZpZGVvanVlZ29zIGhhbiBkZW1vc3RyYWRvIHNlciB1bmEgZm9ybWEgcG9kZXJv
+c2EgZGUgZW50cmV0ZW5pbWllbnRvLCBlZHVjYWNp824gZSBpbnRlcmFjY2nzbiBzb2NpYWwuIFN1
+IGltcGFjdG8gZW4gbGEgc29jaWVkYWQgZXMgY2FkYSB2ZXogbeFzIHNpZ25pZmljYXRpdm8gYSBt
+ZWRpZGEgcXVlIGxhIGluZHVzdHJpYSBjb250aW76YSBjcmVjaWVuZG8geSBldm9sdWNpb25hbmRv
+LiBDb21vIGNvbiBjdWFscXVpZXIgZm9ybWEgZGUgZW50cmV0ZW5pbWllbnRvIG8gdGVjbm9sb2ft
+YSwgZXMgaW1wb3J0YW50ZSBtYW50ZW5lciB1biBlcXVpbGlicmlvIHkgY29uY2llbmNpYSBzb2Jy
+ZSBzdSB1c28geSBlZmVjdG9zIGVuIG51ZXN0cmEgdmlkYSBkaWFyaWEuDQoNCjMgMSAxIDAgMCAw
+DQoNCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text2070843" left="299" top="13" width="667" height="229" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:48px;"&gt;Influencia de los videojuegos en la sociedad&lt;/font&gt;&lt;font face="Bahnschrift Condensed" style="font-size:27px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws36"&gt;Influencia de los videojuegos en la sociedad&lt;/font&gt;&lt;font face="Bahnschrift Condensed" class="ws20"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo1AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhVCYWhuc2NocmlmdCBDb25kZW5zZWQEU2l6ZQIUAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDkJlcmxpbiBTYW5zIEZCBFNpemUCJAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDEgMCAwIDANCkluZmx1ZW5jaWEgZGUg
+bG9zIHZpZGVvanVlZ29zIGVuIGxhIHNvY2llZGFkDQozIDEgLTEgMSAwIDANCiANCg==
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image1960765" left="0" top="0" width="196" height="72" originwidth="370" originheight="136" src="WSB://images\Imagen3.png" previewfile="WSB://images\Imagen3.png" linkurl="page://p7866437" thumbname="thumb4227078" resamplename="img4227093" exportfilename="images/Imagen3.png" fp="1" lp="1"/><Component type="2" id="text3" zorder="3" filename="text436125" left="68" top="23" width="99" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" style="font-size:24px;"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" class="ws18"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDb3VyaWVyBFNpemUCEgVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk1lbnUNCg==
+</rvf></Component></body></page><page id="p8861687" pageindex="4" name="Mas populares" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2371140" left="43" top="0" width="1175" height="3038" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="#339966" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Esta es una lista de los videojuegos más vendidos de todos los tiempos. La encabeza Minecraft, un exponente del&amp;nbsp;&amp;nbsp; género de mundo abierto publicado originalmente para Microsoft Windows, MacOS y Linux en 2011, aunque su&amp;nbsp; desarrollo empezó dos años antes, en 2009. Este también ha sido adaptado a una amplia gama de plataformas y &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;ha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; vendido aproximadamente más de 300 millones de copias, incluyendo descargas móviles de pago;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; Grand Theft Auto&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; V y la versión móvil de Tetris, desarrollada por EA, son los únicos otros videojuegos que han&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; logrado vender más de 100&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; millones de copias. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; El más exitoso en una única videoconsola es Wii Sports, con casi 83 millones de ventas para la Wii.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;De los cincuenta videojuegos más vendidos de la historia, más de quince fueron desarrollados o distribuidos por&amp;nbsp;&amp;nbsp; Nintendo, incluyendo seis de los primeros diez. Otros tres juegos fueron publicados junto con su afiliada, The Pokémon&amp;nbsp;&amp;nbsp;&amp;nbsp; Company. Otras distribuidoras con múltiples entradas en el rango de los cincuenta primeros en la lista son Activision y&amp;nbsp;&amp;nbsp;&amp;nbsp; Rockstar Games. Aparte de los equipos desarrolladores internos de Nintendo, Game Freak es la empresa con más juegos en esta clasificación, con cinco de la serie Pokémon. El juego más antiguo de la lista es Pac-Man, lanzado en julio&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de 1980.[5] Exponentes documentados por número de jugadores en vez de ventas oficiales, así como cuentas registradas, suscripciones o de disposición gratuita, no están incluidos aquí; pertenecen en cambio al listado de videojuegos más jugados por número de jugadores.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Minecraft&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Mojang Studios&amp;nbsp;&amp;nbsp;&amp;nbsp; 18 de noviembre de 2011&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Grand Theft Auto V&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Rockstar North&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Rockstar Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;17 de septiembre de 2013 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Tetris (EA)&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;EA Mobile&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Electronic Arts&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;12 de septiembre de 2006 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Wii Sports&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Nintendo EAD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Nintendo&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;19 de noviembre de 2006&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;PUBG: Battlegrounds&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;PUBG Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Krafton&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;20 de diciembre de 2017&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Mario Kart 8 / Deluxe&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Nintendo EAD / EPD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Nintendo&amp;nbsp;&amp;nbsp;&amp;nbsp; 29 de mayo de 2014&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Red Dead Redemption 2&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Rockstar Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Rockstar Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;26 de octubre de 2018&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;The Elder Scrolls V: Skyrim&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Bethesda Game Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Bethesda Softworks&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;11 de noviembre de 2011 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Terraria &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Re-Logic&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Re-Logic / 505 Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;16 de mayo de 2011 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;br&gt;
+&lt;font face="Berlin Sans FB" class="ws14"&gt;Esta es una lista de los videojuegos más vendidos de todos los tiempos. La encabeza Minecraft, un exponente del&amp;nbsp;&amp;nbsp; género de mundo abierto publicado originalmente para Microsoft Windows, MacOS y Linux en 2011, aunque su&amp;nbsp; desarrollo empezó dos años antes, en 2009. Este también ha sido adaptado a una amplia gama de plataformas y &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;ha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; vendido aproximadamente más de 300 millones de copias, incluyendo descargas móviles de pago;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; Grand Theft Auto&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; V y la versión móvil de Tetris, desarrollada por EA, son los únicos otros videojuegos que han&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; logrado vender más de 100&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; millones de copias. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; El más exitoso en una única videoconsola es Wii Sports, con casi 83 millones de ventas para la Wii.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;De los cincuenta videojuegos más vendidos de la historia, más de quince fueron desarrollados o distribuidos por&amp;nbsp;&amp;nbsp; Nintendo, incluyendo seis de los primeros diez. Otros tres juegos fueron publicados junto con su afiliada, The Pokémon&amp;nbsp;&amp;nbsp;&amp;nbsp; Company. Otras distribuidoras con múltiples entradas en el rango de los cincuenta primeros en la lista son Activision y&amp;nbsp;&amp;nbsp;&amp;nbsp; Rockstar Games. Aparte de los equipos desarrolladores internos de Nintendo, Game Freak es la empresa con más juegos en esta clasificación, con cinco de la serie Pokémon. El juego más antiguo de la lista es Pac-Man, lanzado en julio&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; de 1980.[5] Exponentes documentados por número de jugadores en vez de ventas oficiales, así como cuentas registradas, suscripciones o de disposición gratuita, no están incluidos aquí; pertenecen en cambio al listado de videojuegos más jugados por número de jugadores.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Minecraft&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Mojang Studios&amp;nbsp;&amp;nbsp;&amp;nbsp; 18 de noviembre de 2011&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Grand Theft Auto V&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Rockstar North&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Rockstar Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;17 de septiembre de 2013 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Tetris (EA)&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;EA Mobile&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Electronic Arts&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;12 de septiembre de 2006 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Wii Sports&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Nintendo EAD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Nintendo&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;19 de noviembre de 2006&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;PUBG: Battlegrounds&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;PUBG Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Krafton&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;20 de diciembre de 2017&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Mario Kart 8 / Deluxe&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Nintendo EAD / EPD&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Nintendo&amp;nbsp;&amp;nbsp;&amp;nbsp; 29 de mayo de 2014&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Red Dead Redemption 2&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Rockstar Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Rockstar Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;26 de octubre de 2018&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;The Elder Scrolls V: Skyrim&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Bethesda Game Studios&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Bethesda Softworks&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;11 de noviembre de 2011 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Terraria &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Re-Logic&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Re-Logic / 505 Games&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;16 de mayo de 2011 &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMTAgMSAwIDAgMA0KIA0KDQoNCg0KDQoNCg0KDQoNCg0KMyAxIDEgNCAw
+IDANCkVzdGEgZXMgdW5hIGxpc3RhIGRlIGxvcyB2aWRlb2p1ZWdvcyBt4XMgdmVuZGlkb3MgZGUg
+dG9kb3MgbG9zIHRpZW1wb3MuIExhIGVuY2FiZXphIE1pbmVjcmFmdCwgdW4gZXhwb25lbnRlIGRl
+bCAgIGfpbmVybyBkZSBtdW5kbyBhYmllcnRvIHB1YmxpY2FkbyBvcmlnaW5hbG1lbnRlIHBhcmEg
+TWljcm9zb2Z0IFdpbmRvd3MsIE1hY09TIHkgTGludXggZW4gMjAxMSwgYXVucXVlIHN1ICBkZXNh
+cnJvbGxvIGVtcGV68yBkb3MgYfFvcyBhbnRlcywgZW4gMjAwOS4gRXN0ZSB0YW1iaeluIGhhIHNp
+ZG8gYWRhcHRhZG8gYSB1bmEgYW1wbGlhIGdhbWEgZGUgcGxhdGFmb3JtYXMgeSANCjMgMTM5IDEg
+MCAwIDANCmhhICAgICAgdmVuZGlkbyBhcHJveGltYWRhbWVudGUgbeFzIGRlIDMwMCBtaWxsb25l
+cyBkZSBjb3BpYXMsIGluY2x1eWVuZG8gZGVzY2FyZ2FzIG3zdmlsZXMgZGUgcGFnbzsNCiBHcmFu
+ZCBUaGVmdCBBdXRvICAgICAgIFYgeSBsYSB2ZXJzafNuIG3zdmlsIGRlIFRldHJpcywgZGVzYXJy
+b2xsYWRhIHBvciBFQSwgc29uIGxvcyD6bmljb3Mgb3Ryb3MgdmlkZW9qdWVnb3MgcXVlIGhhbg0K
+DQoNCiBsb2dyYWRvIHZlbmRlciBt4XMgZGUgMTAwICAgICBtaWxsb25lcyBkZSBjb3BpYXMuIA0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQogRWwgbeFzIGV4aXRvc28gZW4gdW5hIPpuaWNhIHZpZGVvY29u
+c29sYSBlcyBXaWkgU3BvcnRzLCBjb24gY2FzaSA4MyBtaWxsb25lcyBkZSB2ZW50YXMgcGFyYSBs
+YSBXaWkuDQpEZSBsb3MgY2luY3VlbnRhIHZpZGVvanVlZ29zIG3hcyB2ZW5kaWRvcyBkZSBsYSBo
+aXN0b3JpYSwgbeFzIGRlIHF1aW5jZSBmdWVyb24gZGVzYXJyb2xsYWRvcyBvIGRpc3RyaWJ1aWRv
+cyBwb3IgICBOaW50ZW5kbywgaW5jbHV5ZW5kbyBzZWlzIGRlIGxvcyBwcmltZXJvcyBkaWV6LiBP
+dHJvcyB0cmVzIGp1ZWdvcyBmdWVyb24gcHVibGljYWRvcyBqdW50byBjb24gc3UgYWZpbGlhZGEs
+IFRoZSBQb2vpbW9uICAgIENvbXBhbnkuIE90cmFzIGRpc3RyaWJ1aWRvcmFzIGNvbiBt+mx0aXBs
+ZXMgZW50cmFkYXMgZW4gZWwgcmFuZ28gZGUgbG9zIGNpbmN1ZW50YSBwcmltZXJvcyBlbiBsYSBs
+aXN0YSBzb24gQWN0aXZpc2lvbiB5ICAgIFJvY2tzdGFyIEdhbWVzLiBBcGFydGUgZGUgbG9zIGVx
+dWlwb3MgZGVzYXJyb2xsYWRvcmVzIGludGVybm9zIGRlIE5pbnRlbmRvLCBHYW1lIEZyZWFrIGVz
+IGxhIGVtcHJlc2EgY29uIG3hcyBqdWVnb3MgZW4gZXN0YSBjbGFzaWZpY2FjafNuLCBjb24gY2lu
+Y28gZGUgbGEgc2VyaWUgUG9r6W1vbi4gRWwganVlZ28gbeFzIGFudGlndW8gZGUgbGEgbGlzdGEg
+ZXMgUGFjLU1hbiwgbGFuemFkbyBlbiBqdWxpbyAgICAgICAgZGUgMTk4MC5bNV0gRXhwb25lbnRl
+cyBkb2N1bWVudGFkb3MgcG9yIG76bWVybyBkZSBqdWdhZG9yZXMgZW4gdmV6IGRlIHZlbnRhcyBv
+ZmljaWFsZXMsIGFz7SBjb21vIGN1ZW50YXMgcmVnaXN0cmFkYXMsIHN1c2NyaXBjaW9uZXMgbyBk
+ZSBkaXNwb3NpY2nzbiBncmF0dWl0YSwgbm8gZXN04W4gaW5jbHVpZG9zIGFxde07IHBlcnRlbmVj
+ZW4gZW4gY2FtYmlvIGFsIGxpc3RhZG8gZGUgdmlkZW9qdWVnb3MgbeFzIGp1Z2Fkb3MgcG9yIG76
+bWVybyBkZSBqdWdhZG9yZXMuDQoNCg0KTWluZWNyYWZ0DQpNb2phbmcgU3R1ZGlvcyAgICAxOCBk
+ZSBub3ZpZW1icmUgZGUgMjAxMQ0KDQoNCg0KDQoNCg0KDQoNCg0KR3JhbmQgVGhlZnQgQXV0byBW
+DQpSb2Nrc3RhciBOb3J0aA0KUm9ja3N0YXIgR2FtZXMNCjE3IGRlIHNlcHRpZW1icmUgZGUgMjAx
+MyANCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQpUZXRyaXMgKEVBKQ0KRUEgTW9iaWxlDQpFbGVjdHJv
+bmljIEFydHMNCjEyIGRlIHNlcHRpZW1icmUgZGUgMjAwNiANCg0KICAgDQoNCg0KDQoNCg0KV2lp
+IFNwb3J0cw0KTmludGVuZG8gRUFEDQpOaW50ZW5kbw0KMTkgZGUgbm92aWVtYnJlIGRlIDIwMDYg
+IA0KDQoNCg0KDQoNCg0KDQogIA0KDQpQVUJHOiBCYXR0bGVncm91bmRzDQpQVUJHIFN0dWRpb3MN
+CktyYWZ0b24NCjIwIGRlIGRpY2llbWJyZSBkZSAyMDE3ICAgIA0KDQoNCg0KDQoNCg0KDQoNCk1h
+cmlvIEthcnQgOCAvIERlbHV4ZQ0KTmludGVuZG8gRUFEIC8gRVBEDQpOaW50ZW5kbyAgICAyOSBk
+ZSBtYXlvIGRlIDIwMTQNCg0KDQoNCg0KDQoNCg0KICAgIA0KDQpSZWQgRGVhZCBSZWRlbXB0aW9u
+IDINClJvY2tzdGFyIFN0dWRpb3MNClJvY2tzdGFyIEdhbWVzDQoyNiBkZSBvY3R1YnJlIGRlIDIw
+MTggIA0KDQoNCg0KDQoNCg0KIA0KDQpUaGUgRWxkZXIgU2Nyb2xscyBWOiBTa3lyaW0NCkJldGhl
+c2RhIEdhbWUgU3R1ZGlvcw0KQmV0aGVzZGEgU29mdHdvcmtzDQoxMSBkZSBub3ZpZW1icmUgZGUg
+MjAxMSANCg0KDQoNCg0KDQoNCg0KDQogDQpUZXJyYXJpYSANClJlLUxvZ2ljDQpSZS1Mb2dpYyAv
+IDUwNSBHYW1lcw0KMTYgZGUgbWF5byBkZSAyMDExIA0KDQoNCg0KDQoNCg0KDQoNCiAgDQoNCg0K
+DQoNCg0KDQoNCg0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text3171625" left="364" top="43" width="580" height="189" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB Demi" style="font-size:48px;"&gt;Videojuegos mas vendidos &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB Demi" class="ws36"&gt;Videojuegos mas vendidos &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNCZXJsaW4gU2FucyBGQiBEZW1pBFNpemUCJAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClZpZGVvanVlZ29zIG1hcyB2ZW5kaWRvcyAN
+Cg==
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image1877046" left="454" top="828" width="358" height="159" originwidth="318" originheight="159" src="WSB://images\maincra.jpg" previewfile="WSB://images\maincra.jpg" thumbname="thumb4227125" resamplename="img4227140" exportfilename="images/maincra.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image1959890" left="479" top="1637" width="318" height="159" originwidth="318" originheight="159" src="WSB://images\wii.jpg" previewfile="WSB://images\wii.jpg" thumbname="thumb4227171" resamplename="img4227187" exportfilename="images/wii.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image1987546" left="531" top="1100" width="203" height="195" originwidth="203" originheight="248" src="WSB://images\gta.jpg" previewfile="WSB://images\gta.jpg" thumbname="thumb4227218" resamplename="img4227234" exportfilename="images/gta.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="5" filename="image2012953" left="497" top="2654" width="271" height="143" originwidth="300" originheight="168" src="WSB://images\skyrim.jpg" previewfile="WSB://images\skyrim.jpg" thumbname="thumb4227265" resamplename="img4227281" exportfilename="images/skyrim.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="6" filename="image2066578" left="484" top="1410" width="300" height="121" originwidth="300" originheight="168" src="WSB://images\tetris.jpg" previewfile="WSB://images\tetris.jpg" thumbname="thumb4227312" resamplename="img4227328" exportfilename="images/tetris.jpg" fp="1" lp="1"/><Component type="3" id="image6" zorder="7" filename="image2107562" left="480" top="1917" width="300" height="145" originwidth="300" originheight="168" src="WSB://images\pubg.jpg" previewfile="WSB://images\pubg.jpg" thumbname="thumb4227359" resamplename="img4227375" exportfilename="images/pubg.jpg" fp="1" lp="1"/><Component type="3" id="image7" zorder="8" filename="image2161046" left="480" top="2140" width="300" height="168" originwidth="300" originheight="168" src="WSB://images\kart.jpg" previewfile="WSB://images\kart.jpg" thumbname="thumb4227406" resamplename="img4227421" exportfilename="images/kart.jpg" fp="1" lp="1"/><Component type="3" id="image8" zorder="9" filename="image2206171" left="483" top="2413" width="300" height="115" originwidth="300" originheight="168" src="WSB://images\red dead 2.jpg" previewfile="WSB://images\red dead 2.jpg" thumbname="thumb4227453" resamplename="img4227468" exportfilename="images/red dead 2.jpg" fp="1" lp="1"/><Component type="3" id="image9" zorder="10" filename="image2234109" left="500" top="2906" width="284" height="120" originwidth="284" originheight="177" src="WSB://images\terraria.jpg" previewfile="WSB://images\terraria.jpg" thumbname="thumb4227500" resamplename="img4227515" exportfilename="images/terraria.jpg" fp="1" lp="1"/><Component type="3" id="image10" zorder="11" filename="image2328953" left="500" top="381" width="300" height="168" originwidth="300" originheight="168" src="WSB://images\jaime no se baña.jpg" previewfile="WSB://images\jaime no se baña.jpg" thumbname="thumb4227546" resamplename="img4227562" exportfilename="images/jaime no se baña.jpg" fp="1" lp="1"/><Component type="3" id="image11" zorder="12" filename="image1984468" left="66" top="27" width="196" height="72" originwidth="370" originheight="136" src="WSB://images\Imagen3.png" previewfile="WSB://images\Imagen3.png" linkurl="page://p7866437" lp="1" thumbname="thumb4227593" resamplename="img4227609" exportfilename="images/Imagen3.png" fp="1"/><Component type="2" id="text3" zorder="13" filename="text247968" left="136" top="48" width="99" height="22" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" style="font-size:24px;"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Courier" class="ws18"&gt;Menu&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDb3VyaWVyBFNpemUCEgVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk1lbnUNCg==
+</rvf></Component></body></page></site>
